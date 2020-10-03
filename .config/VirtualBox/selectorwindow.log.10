@@ -1,0 +1,19 @@
+00:00:00.807800 VirtualBox GUI VM Selector Window 6.1.10 r138449 linux.amd64 (Jun  8 2020 08:33:44) release log
+00:00:00.807801 Log opened 2020-06-29T05:54:58.966004000Z
+00:00:00.807801 Build Type: release
+00:00:00.807802 OS Product: Linux
+00:00:00.807803 OS Release: 5.7.6-arch1-1
+00:00:00.807803 OS Version: #1 SMP PREEMPT Thu, 25 Jun 2020 00:14:47 +0000
+00:00:00.807814 DMI Product Name: System Product Name
+00:00:00.807817 DMI Product Version: System Version
+00:00:00.807819 Firmware type: UEFI
+00:00:00.808155 Secure Boot: Disabled
+00:00:00.808182 Host RAM: 16001MB (15.6GB) total, 14064MB (13.7GB) available
+00:00:00.808184 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:00.808184 Process ID: 1582
+00:00:00.808184 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.808198 Qt version: 5.15.0
+00:00:00.816790 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:01.154286 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 0x22 x 1920x1058
+00:00:01.158804 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:12.577114 ERROR [COM]: aRC=NS_ERROR_UNEXPECTED (0x8000ffff) aIID={c0447716-ff5a-4795-b57a-ecd5fffa18a4} aComponent={SessionWrap} aText={The session is not locked (session state: Unlocked)}, preserve=false aResultDetail=0

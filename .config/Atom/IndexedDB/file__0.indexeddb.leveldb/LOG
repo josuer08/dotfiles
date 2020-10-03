@@ -1,0 +1,6 @@
+2020/09/10-22:40:01.152 3c7a0c Reusing MANIFEST /home/josuer08/.config/Atom/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2020/09/10-22:40:01.152 3c7a0c Recovering log #3
+2020/09/10-22:40:01.256 3c7a0c Reusing old log /home/josuer08/.config/Atom/IndexedDB/file__0.indexeddb.leveldb/000003.log 
+2020/09/10-22:49:54.742 3ca4ba Level-0 table #5: started
+2020/09/10-22:49:54.838 3ca4ba Level-0 table #5: 2114380 bytes OK
+2020/09/10-22:49:54.901 3ca4ba Delete type=0 #3

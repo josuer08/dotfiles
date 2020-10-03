@@ -1,0 +1,53 @@
+[CompactMode]
+FontWeight=50
+
+[DetailsMode]
+FontWeight=50
+
+[General]
+Version=200
+ViewPropsTimestamp=2020,6,7,21,39,41
+
+[IconsMode]
+FontWeight=50
+
+[KPropertiesDialog]
+Height 1080=518
+Width 1920=438
+
+[MainWindow]
+HDMI-0 DP-0 Height 1080=1047
+HDMI-0 DP-0 Height 1440=1377
+HDMI-0 DP-0 Width 1920=1916
+HDMI-0 DP-0 Width 3440=3440
+HDMI-0 DP-0 XPosition=-1
+HDMI-0 DP-0 YPosition=21
+Height 1080=1047
+Height 1440=676
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAwAAAAAAAAC4AAAFPPwCAAAAAvsAAAAWAGYAbwBsAGQAZQByAHMARABvAGMAawAAAAAA/////wAAAAIA////+wAAABQAcABsAGEAYwBlAHMARABvAGMAawEAAAAlAAAFPAAAAE8A////AAAAAQAAAAAAAAAA/AIAAAAB+wAAABAAaQBuAGYAbwBEAG8AYwBrAAAAAAD/////AAAAAgD///8AAAADAAAAAAAAAAD8AQAAAAH7AAAAGAB0AGUAcgBtAGkAbgBhAGwARABvAGMAawAAAAAA/////wAAAAIA////AAAMsgAABTwAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=
+ToolBarsMovable=Disabled
+Width 1920=1916
+Width 3440=1716
+
+[Open-with settings]
+CompletionMode=1
+History=
+
+[PreviewSettings]
+Plugins=appimagethumbnail,audiothumbnail,comicbookthumbnail,cursorthumbnail,djvuthumbnail,ebookthumbnail,exrthumbnail,directorythumbnail,fontthumbnail,imagethumbnail,jpegthumbnail,kraorathumbnail,windowsexethumbnail,windowsimagethumbnail,opendocumentthumbnail,svgthumbnail,textthumbnail
+
+[Search]
+Location=Everywhere
+
+[SettingsDialog]
+Height 1080=456
+Height 1440=561
+Width 1920=561
+Width 3440=751
+
+[ViewPropertiesDialog]
+Height 1080=318
+Height 1440=382
+Width 1920=375
+Width 3440=486

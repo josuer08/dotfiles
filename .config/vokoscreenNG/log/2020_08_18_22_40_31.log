@@ -1,0 +1,104 @@
+[vokoscreenNG] Version: 3.0.6 pre alpha
+[vokoscreenNG] Locale: en_US
+[vokoscreenNG] Log from: 2020-08-18 22:40:31
+[vokoscreenNG] Country: United States
+[vokoscreenNG] Qt: 5.15.0
+[vokoscreenNG] GStreamer 1.16.2
+[vokoscreenNG] Operating system: Arch Linux
+[vokoscreenNG] CPU Architecture: x86_64
+[vokoscreenNG] vokoscreenNG running as: xcb client
+[vokoscreenNG] vokoscreenNG running on: x11
+[vokoscreenNG] Desktop: KDE
+[vokoscreenNG] Icon-Theme: Tela
+[vokoscreenNG] Styles: (Breeze, Oxygen, Windows, Fusion)
+[vokoscreenNG] Qt-PluginsPath:      /usr/lib/qt/plugins
+[vokoscreenNG] Qt-TranslationsPath: /usr/share/qt/translations
+[vokoscreenNG] Qt-LibraryPath:      /usr/lib
+[vokoscreenNG] Settings: /home/josuer08/.config/vokoscreenNG/vokoscreenNG.ini
+[vokoscreenNG] Log: /home/josuer08/.config/vokoscreenNG/log/2020_08_18_22_40_31.log
+[vokoscreenNG] CompositingManager running: false
+
+[vokoscreenNG] [Audio] Found: Monitor of TU116 High Definition Audio Controller Digital Stereo (HDMI) Device: alsa_output.pci-0000_09_00.1.hdmi-stereo.monitor
+[vokoscreenNG] [Audio] Found: Monitor of Quantum 400 Analog Stereo Device: alsa_output.usb-JBL_Quantum_400_0080CM-0018812CK-00.analog-stereo.monitor
+[vokoscreenNG] [Audio] Found: UVC Camera Mono Device: alsa_input.usb-Ruision_UVC_Camera_20200416-02.mono-fallback
+[vokoscreenNG] [Audio] Found: Monitor of Starship/Matisse HD Audio Controller Digital Stereo (IEC958) Device: alsa_output.pci-0000_0b_00.4.iec958-stereo.monitor
+[vokoscreenNG] [Audio] Found: Starship/Matisse HD Audio Controller Analog Stereo Device: alsa_input.pci-0000_0b_00.4.analog-stereo
+
+[vokoscreenNG] Symbols: + available, - not available
+[vokoscreenNG] + matroskamux
+[vokoscreenNG] + webmmux
+[vokoscreenNG] + avimux
+[vokoscreenNG] + mp4mux
+[vokoscreenNG] + qtmux
+[vokoscreenNG] - x264enc
+[vokoscreenNG] - openh264enc
+[vokoscreenNG] - vaapih264enc
+[vokoscreenNG] - vaapimpeg2enc
+[vokoscreenNG] + vp8enc
+[vokoscreenNG] + vorbisenc
+[vokoscreenNG] + flacenc
+[vokoscreenNG] + opusenc
+[vokoscreenNG] + lamemp3enc
+[vokoscreenNG] - voaacenc
+
+[vokoscreenNG] + ximagesrc
+[vokoscreenNG] + pulsesrc
+[vokoscreenNG] + pipewiresrc
+[vokoscreenNG] + queue
+[vokoscreenNG] + capsfilter
+[vokoscreenNG] + videoconvert
+[vokoscreenNG] + videorate
+[vokoscreenNG] + audioconvert
+[vokoscreenNG] + audiorate
+[vokoscreenNG] + filesink
+[vokoscreenNG] + videoscale
+[vokoscreenNG] + h264parse
+[vokoscreenNG] + audiomixer
+[vokoscreenNG] + adder
+
+[vokoscreenNG] Name from screen:  HDMI-0
+[vokoscreenNG] Screen available desktop width : 1920
+[vokoscreenNG] Screen available desktop height: 1080
+[vokoscreenNG] DevicePixelRatio: 1  (Normal displays is 1, Retina display is 2)
+[vokoscreenNG] Vertical refresh rate of the screen in Hz: 60
+[vokoscreenNG] Screen orientation Qt::LandscapeOrientation
+[vokoscreenNG] Color depth of the screen:  24
+[vokoscreenNG] Model from screen:  SAMSUNG-
+[vokoscreenNG] Manufactur from screen:  Samsung Electric Company
+[vokoscreenNG] SerialNumber from screen:  
+[vokoscreenNG] ItemText in Combobox: HDMI-0 :  1920 x 1080
+[vokoscreenNG] ItemData in Combobox: x=3440 y=856 with=1920 height=1080
+
+[vokoscreenNG] Name from screen:  DP-0
+[vokoscreenNG] Screen available desktop width : 3440
+[vokoscreenNG] Screen available desktop height: 1440
+[vokoscreenNG] DevicePixelRatio: 1  (Normal displays is 1, Retina display is 2)
+[vokoscreenNG] Vertical refresh rate of the screen in Hz: 99.9981
+[vokoscreenNG] Screen orientation Qt::LandscapeOrientation
+[vokoscreenNG] Color depth of the screen:  24
+[vokoscreenNG] Model from screen:  MSI MAG341CQ-
+[vokoscreenNG] Manufactur from screen:  Microstep
+[vokoscreenNG] SerialNumber from screen:  MA0H050170484
+[vokoscreenNG] ItemText in Combobox: DP-0 :  3440 x 1440
+[vokoscreenNG] ItemData in Combobox: x=0 y=0 with=3440 height=1440
+
+[vokoscreenNG] [Camera] Found: UVC Camera: UVC Camera /dev/video0
+[vokoscreenNG] - x264enc
+[vokoscreenNG] - openh264enc
+[vokoscreenNG] - vaapih264enc
+[vokoscreenNG] - vaapimpeg2enc
+[vokoscreenNG] + lamemp3enc
+[vokoscreenNG] + opusenc
+[vokoscreenNG] - voaacenc
+
+[vokoscreenNG] QCamera::LoadingStatus
+[vokoscreenNG] QCamera::LoadedState
+[vokoscreenNG] Desktop session is a X11 session
+[vokoscreenNG] QCamera::LoadedStatus
+[vokoscreenNG] QCamera::StartingStatus
+[vokoscreenNG] QCamera::ActiveState
+CameraBin error: "Device '/dev/video0' is busy"
+[vokoscreenNG] QCamera::UnloadingStatus
+[vokoscreenNG] QCamera::UnloadedStatus
+[vokoscreenNG] General Camera error
+[vokoscreenNG] QCamera::UnloadedState

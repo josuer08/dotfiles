@@ -1,0 +1,94 @@
+[vokoscreenNG] Version: 3.0.6 pre alpha
+[vokoscreenNG] Locale: en_US
+[vokoscreenNG] Log from: 2020-08-12 00:25:59
+[vokoscreenNG] Country: United States
+[vokoscreenNG] Qt: 5.15.0
+[vokoscreenNG] GStreamer 1.16.2
+[vokoscreenNG] Operating system: Arch Linux
+[vokoscreenNG] CPU Architecture: x86_64
+[vokoscreenNG] vokoscreenNG running as: xcb client
+[vokoscreenNG] vokoscreenNG running on: x11
+[vokoscreenNG] Desktop: KDE
+[vokoscreenNG] Icon-Theme: Tela
+[vokoscreenNG] Styles: (Breeze, Oxygen, Windows, Fusion)
+[vokoscreenNG] Qt-PluginsPath:      /usr/lib/qt/plugins
+[vokoscreenNG] Qt-TranslationsPath: /usr/share/qt/translations
+[vokoscreenNG] Qt-LibraryPath:      /usr/lib
+[vokoscreenNG] Settings: /home/josuer08/.config/vokoscreenNG/vokoscreenNG.ini
+[vokoscreenNG] Log: /home/josuer08/.config/vokoscreenNG/log/2020_08_12_00_25_59.log
+[vokoscreenNG] CompositingManager running: true
+
+[vokoscreenNG] Symbols: + available, - not available
+[vokoscreenNG] + matroskamux
+[vokoscreenNG] + webmmux
+[vokoscreenNG] + avimux
+[vokoscreenNG] + mp4mux
+[vokoscreenNG] + qtmux
+[vokoscreenNG] - x264enc
+[vokoscreenNG] - openh264enc
+[vokoscreenNG] - vaapih264enc
+[vokoscreenNG] - vaapimpeg2enc
+[vokoscreenNG] + vp8enc
+[vokoscreenNG] + vorbisenc
+[vokoscreenNG] + flacenc
+[vokoscreenNG] + opusenc
+[vokoscreenNG] + lamemp3enc
+[vokoscreenNG] - voaacenc
+
+[vokoscreenNG] + ximagesrc
+[vokoscreenNG] + pulsesrc
+[vokoscreenNG] + pipewiresrc
+[vokoscreenNG] + queue
+[vokoscreenNG] + capsfilter
+[vokoscreenNG] + videoconvert
+[vokoscreenNG] + videorate
+[vokoscreenNG] + audioconvert
+[vokoscreenNG] + audiorate
+[vokoscreenNG] + filesink
+[vokoscreenNG] + videoscale
+[vokoscreenNG] + h264parse
+[vokoscreenNG] + audiomixer
+[vokoscreenNG] + adder
+
+[vokoscreenNG] Name from screen:  HDMI-0
+[vokoscreenNG] Screen available desktop width : 1920
+[vokoscreenNG] Screen available desktop height: 1080
+[vokoscreenNG] DevicePixelRatio: 1  (Normal displays is 1, Retina display is 2)
+[vokoscreenNG] Vertical refresh rate of the screen in Hz: 60
+[vokoscreenNG] Screen orientation Qt::LandscapeOrientation
+[vokoscreenNG] Color depth of the screen:  24
+[vokoscreenNG] Model from screen:  SAMSUNG-
+[vokoscreenNG] Manufactur from screen:  Samsung Electric Company
+[vokoscreenNG] SerialNumber from screen:  
+[vokoscreenNG] ItemText in Combobox: HDMI-0 :  1920 x 1080
+[vokoscreenNG] ItemData in Combobox: x=3440 y=856 with=1920 height=1080
+
+[vokoscreenNG] Name from screen:  DP-0
+[vokoscreenNG] Screen available desktop width : 3440
+[vokoscreenNG] Screen available desktop height: 1440
+[vokoscreenNG] DevicePixelRatio: 1  (Normal displays is 1, Retina display is 2)
+[vokoscreenNG] Vertical refresh rate of the screen in Hz: 99.9981
+[vokoscreenNG] Screen orientation Qt::LandscapeOrientation
+[vokoscreenNG] Color depth of the screen:  24
+[vokoscreenNG] Model from screen:  MSI MAG341CQ-
+[vokoscreenNG] Manufactur from screen:  Microstep
+[vokoscreenNG] SerialNumber from screen:  MA0H050170484
+[vokoscreenNG] ItemText in Combobox: DP-0 :  3440 x 1440
+[vokoscreenNG] ItemData in Combobox: x=0 y=0 with=3440 height=1440
+
+[vokoscreenNG] [Camera] Found: UVC Camera: UVC Camera /dev/video0
+[vokoscreenNG] - x264enc
+[vokoscreenNG] - openh264enc
+[vokoscreenNG] - vaapih264enc
+[vokoscreenNG] - vaapimpeg2enc
+[vokoscreenNG] + lamemp3enc
+[vokoscreenNG] + opusenc
+[vokoscreenNG] - voaacenc
+
+[vokoscreenNG] QCamera::LoadingStatus
+[vokoscreenNG] QCamera::LoadedState
+[vokoscreenNG] Desktop session is a X11 session
+[vokoscreenNG] QCamera::LoadedStatus
+[vokoscreenNG] QCamera::StartingStatus
+[vokoscreenNG] QCamera::ActiveState
+[vokoscreenNG] QCamera::ActiveStatus

@@ -1,0 +1,51 @@
+00:00:00.000167 main     VirtualBox XPCOM Server 6.1.12 r139181 linux.amd64 (Aug 11 2020 08:53:49) release log
+00:00:00.000169 main     Log opened 2020-08-23T23:47:30.863701000Z
+00:00:00.000169 main     Build Type: release
+00:00:00.000170 main     OS Product: Linux
+00:00:00.000171 main     OS Release: 5.8.3-arch1-1
+00:00:00.000171 main     OS Version: #1 SMP PREEMPT Fri, 21 Aug 2020 16:54:16 +0000
+00:00:00.000182 main     DMI Product Name: System Product Name
+00:00:00.000186 main     DMI Product Version: System Version
+00:00:00.000188 main     Firmware type: UEFI
+00:00:00.000539 main     Secure Boot: Disabled
+00:00:00.000561 main     Host RAM: 15999MB (15.6GB) total, 11396MB (11.1GB) available
+00:00:00.000562 main     Executable: /usr/lib/virtualbox/VBoxSVC
+00:00:00.000563 main     Process ID: 3598
+00:00:00.000563 main     Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.001400 main     IPC socket path: /tmp/.vbox-josuer08-ipc/ipcd
+00:00:00.103813 nspr-2   VirtualBox: object creation starts
+00:00:00.103846 nspr-2   Home directory: '/home/josuer08/.config/VirtualBox'
+00:00:00.103907 nspr-2   Loading settings file "/home/josuer08/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.104365 nspr-2   HostDnsMonitor: initializing
+00:00:00.104443 nspr-2   NAT: resolv.conf: nameserver 192.168.1.1
+00:00:00.104448 nspr-2   HostDnsMonitor: updating information
+00:00:00.104454 nspr-2   HostDnsMonitor: old information
+00:00:00.104455 nspr-2     no server entries
+00:00:00.104457 nspr-2     no domain set
+00:00:00.104458 nspr-2     no search string entries
+00:00:00.104459 nspr-2   HostDnsMonitor: new information
+00:00:00.104460 nspr-2     server 1: 192.168.1.1
+00:00:00.104461 nspr-2     domain: myfiosgateway.com
+00:00:00.104463 nspr-2     search string 1: myfiosgateway.com
+00:00:00.105666 nspr-2   VD: VDInit finished with VINF_SUCCESS
+00:00:00.105707 nspr-2   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={027bc463-929c-40e8-bf16-fea557cd8e7e} aComponent={SystemPropertiesWrap} aText={Cannot determine default Guest Additions ISO location. Most likely they are not available}, preserve=false aResultDetail=0
+00:00:00.108027 nspr-2   Loading settings file "/home/josuer08/VirtualBox VMs/instantOS/instantOS.vbox" with version "1.16-linux"
+00:00:00.108354 nspr-2   Loading settings file "/home/josuer08/VirtualBox VMs/ubuntuserver/ubuntuserver.vbox" with version "1.16-linux"
+00:00:00.108626 nspr-2   VirtualBox: object created
+00:00:00.115240 nspr-2   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 0 on port 0 of controller 'IDE'}, preserve=false aResultDetail=0
+00:00:00.115317 nspr-2   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 0 on port 0 of controller 'IDE'}, preserve=false aResultDetail=0
+00:00:00.115381 nspr-2   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 1 on port 0 of controller 'IDE'}, preserve=false aResultDetail=0
+00:00:00.115442 nspr-2   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 1 on port 0 of controller 'IDE'}, preserve=false aResultDetail=0
+00:00:00.115720 nspr-2   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 1 on port 1 of controller 'IDE'}, preserve=false aResultDetail=0
+00:00:00.115789 nspr-2   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 1 on port 1 of controller 'IDE'}, preserve=false aResultDetail=0
+00:00:00.118911 nspr-2   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:00:00.119015 nspr-2   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:00:00.119725 nspr-3   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={This machine does not have any snapshots}, preserve=false aResultDetail=0
+00:00:05.120613 main     VirtualBox: object deletion starts
+00:00:05.120639 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium '/home/josuer08/VirtualBox VMs/instantOS/instantOS.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:00:05.120733 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium '/home/josuer08/VirtualBox VMs/ubuntuserver/ubuntuserver.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:00:05.120898 main     HostDnsMonitor: shutting down ...
+00:00:05.121137 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={d0a0163f-e254-4e5b-a1f2-011cf991c38d} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:00:05.132877 main     HostDnsMonitor: shut down
+00:00:10.132947 main     {00007ff2600190a0} HostPowerServiceLinux::~HostPowerServiceLinux: RTThreadWait() for 5000 ms failed with VERR_TIMEOUT
+00:00:10.133096 main     VirtualBox: object deleted
