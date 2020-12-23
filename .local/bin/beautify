@@ -1,0 +1,2 @@
+#!/bin/bash
+wallpaper="$(ls -d -1A /home/josuer08/Pictures/backgrounds/* | shuf -n 1)"; feh --bg-fill $wallpaper; wal -i $wallpaper -n -q

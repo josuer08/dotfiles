@@ -1,0 +1,7 @@
+# GIMP gimp-scale-tool options
+
+(interpolation linear)
+(preview-opacity 0.98999999999999999)
+(constrain-scale no)
+
+# end of gimp-scale-tool options

@@ -64,7 +64,7 @@ font:
     style: Light
 
   # Point size of the font
-  size: 4.5
+  size: 12
 
   # Offset is the extra space around each character. offset.y can be thought of
   # as modifying the linespacing, and offset.x as modifying the letter spacing.
@@ -198,7 +198,7 @@ mouse:
     #
     # This program is executed when clicking on a text which is recognized as a URL.
     # The URL is always added to the command as the last parameter.
-    launcher: open
+    launcher: brave
 
     # URL modifiers
     #

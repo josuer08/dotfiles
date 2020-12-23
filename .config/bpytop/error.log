@@ -1,0 +1,30 @@
+20/10/20 (12:57:32) | ERROR: '>' not supported between instances of 'NoneType' and 'int'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 2738, in _collect_temps
+    if hasattr(entry, "high") and entry.high > 1: cls.cpu_temp_high = round(entry.high)
+TypeError: '>' not supported between instances of 'NoneType' and 'int'
+20/10/20 (13:04:01) | ERROR: '>' not supported between instances of 'NoneType' and 'int'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 2738, in _collect_temps
+    if hasattr(entry, "high") and entry.high > 1: cls.cpu_temp_high = round(entry.high)
+TypeError: '>' not supported between instances of 'NoneType' and 'int'
+23/10/20 (15:45:15) | ERROR: '>' not supported between instances of 'NoneType' and 'int'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 2738, in _collect_temps
+    if hasattr(entry, "high") and entry.high > 1: cls.cpu_temp_high = round(entry.high)
+TypeError: '>' not supported between instances of 'NoneType' and 'int'
+23/10/20 (15:46:52) | ERROR: '>' not supported between instances of 'NoneType' and 'int'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 2738, in _collect_temps
+    if hasattr(entry, "high") and entry.high > 1: cls.cpu_temp_high = round(entry.high)
+TypeError: '>' not supported between instances of 'NoneType' and 'int'
+01/11/20 (19:13:25) | ERROR: '>' not supported between instances of 'NoneType' and 'int'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 2738, in _collect_temps
+    if hasattr(entry, "high") and entry.high > 1: cls.cpu_temp_high = round(entry.high)
+TypeError: '>' not supported between instances of 'NoneType' and 'int'
+03/11/20 (19:53:39) | ERROR: 2
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 2787, in _collect_temps
+    cls.cpu_temp[x+1].append(core_dict[z])
+KeyError: 2

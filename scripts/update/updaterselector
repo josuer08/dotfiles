@@ -1,0 +1,55 @@
+#!/bin/bash
+
+
+eval 'resize'; #this creates variables for the size of the terminal
+
+
+#In the next line we do the trick of asignning the output to a variable, but we invert stdout and stderr via the "3>&1 1>&2 2>&3" part, because whiptail exports via stderr
+
+
+value1=$(whiptail --title "Global package manager" --menu "What are we managing today?" $(( $LINES - 8 )) $(( $COLUMNS - 4 )) $(( $LINES - 16 )) \
+"1" "APT" \
+"2" "PACMAN" \
+"3" "YAY" \
+"4" "DNF" \
+"5" "PIP (python installer)" \
+"6" "NODE.JS Modules in this directory" \
+"7" "CLOSE THIS" 3>&1 1>&2 2>&3)
+
+
+if [ $value1 == "7" ]
+then
+  exit 0;
+fi
+
+
+value2=$(whiptail --title "Global package manager" --menu "What do you want to do?" $(( $LINES - 8 )) $(( $COLUMNS - 4 )) $(( $LINES - 16 )) \
+"1" "Install package" \
+"2" "Update/reinstall specific package" \
+"3" "Uninstall package" \
+"4" "See installed packages" \
+"5" "Search for a package" \
+"6" "CLOSE THIS" 3>&1 1>&2 2>&3)
+
+
+case $value1 in
+1)
+  . $(pwd)/updaterdeb $value2;
+  ;;
+2)
+  . $(pwd)/updaterarch $value2 0;
+  ;;
+3)
+  . $(pwd)/updaterarch $value2 1;
+  ;;
+3)
+  . $(pwd)/updaterfed $value2;
+  ;;
+5)
+  . $(pwd)/updaterpip $value2;
+  ;;
+6)
+  . $(pwd)/updaternpm $value2;
+  ;;
+esac
+

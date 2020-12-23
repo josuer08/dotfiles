@@ -1,5 +1,0 @@
-alsa_card.pci-0000:09:00.1:output:hdmi-output-0 mute:0 volumes:2,1.000000,1.000000
-alsa_card.pci-0000:0b:00.4:output:iec958-stereo-output mute:0 volumes:2,1.000000,1.000000
-alsa_card.pci-0000:0b:00.4:output:analog-output-headphones mute:0 volumes:2,0.464157,0.464157
-alsa_card.pci-0000:09:00.1:output:hdmi-output-1 mute:0 volumes:2,1.000000,1.000000
-alsa_card.pci-0000:0b:00.4:input:analog-input-front-mic mute:0 volumes:2,0.304337,0.304337

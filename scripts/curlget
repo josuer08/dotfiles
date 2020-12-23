@@ -1,0 +1,7 @@
+ipinfo.io/
+wttr.in/
+cat <<EOF | curl -F-=\<- qrencode.de/
+curl dict://dict.org/d:internet
+curl -F'shorten=https://youtube.com' https://0x0.st
+ssh chat.shazow.net
+ssh chat@ascii.town

@@ -33,13 +33,13 @@ shopt -s checkwinsize
 
 
 # If this is an xterm set the title to user@host:dir
-case "$TERM" in
-xterm*|rxvt*|alacritty)
-    PS1="\[\e]0;${debian_chroot:+($debian_chroot)}\u@\h: \w\a\]$PS1"
-    ;;
-*)
-    ;;
-esac
+#case "$TERM" in
+#xterm*|rxvt*|alacritty)
+    #PS1="\[\e]0;${debian_chroot:+($debian_chroot)}\u@\h: \w\a\]$PS1"
+    #;;
+#*)
+    #;;
+#esac
 
 # enable color support of ls and also add handy aliases
 if [ -x /usr/bin/dircolors ]; then
@@ -100,8 +100,27 @@ alias ccat='highlight --out-format=ansi'
 shopt -s autocd
 # wifi available
 alias wifi='nmcli d wifi'
-# personalized ps1
-export PS1="\[\033[38;5;247m\][\$?]\[$(tput sgr0)\]\[$(tput bold)\]\[\033[38;5;40m\]\u@\h\[$(tput sgr0)\]:\[$(tput sgr0)\]\[\033[38;5;45m\]\w\[$(tput sgr0)\]\n\\$\[$(tput sgr0)\]"
+
+# personalized ps1 #################################################################################
+# .bashrc (or .bash_profile)
+
+# declares an array with the emojis we want to support
+EMOJIS=(👻 💀 👽 👾 🎃 😎 🧠 🦘 🦍 🎻)
+
+# selects a random element from the EMOJIS set
+SELECTED_EMOJI=${EMOJIS[$RANDOM % ${#EMOJIS[@]}]};
+# declare the terminal prompt format
+#export PS1='${SELECTED_EMOJI}  [\u@\h \W]$ '
+#export PS1="\e[1;90m[\$?]\e[m\e[1;92m\[$(tput bold)\]\u@\h\e[m\[$(tput sgr0)\]:\e[0;36m\w\e[m\n\\$";
+export PS1="\e[1;90m[\$?]\e[m\e[1;92m\[$(tput bold)\]\u@\h\e[m\[$(tput sgr0)\]:\e[0;36m\w\e[m\n${SELECTED_EMOJI}";
+
+
+####################################################################################################
+
+cat ~/.cache/wal/sequences & #This imports the theme from the last pywal
+
+
+#export PS1="\[\033[38;5;247m\][\$?]\[$(tput sgr0)\]\[$(tput bold)\]\[\033[38;5;40m\]\u@\h\[$(tput sgr0)\]:\[$(tput sgr0)\]\[\033[38;5;45m\]\w\[$(tput sgr0)\]\n\\$\[$(tput sgr0)\]"
 
 alias autowal='wal --iterative -i /usr/share/backgrounds/ > /dev/null'
 #figlet de mi nombre
@@ -278,3 +297,35 @@ export PATH="$HOME/.gem/ruby/2.7.0/bin:$PATH";
 source /usr/share/bash-completion/bash_completion; #this is just for better completion
 bind 'set show-all-if-ambiguous on';
 bind 'TAB:menu-complete';
+
+# HSTR configuration - add this to ~/.bashrc
+alias hh=hstr                    # hh to be alias for hstr
+export HSTR_CONFIG=hicolor       # get more colors
+shopt -s histappend              # append new history items to .bash_history
+export HISTCONTROL=ignorespace   # leading space hides commands from history
+export HISTFILESIZE=10000        # increase history file size (default is 500)
+export HISTSIZE=${HISTFILESIZE}  # increase history size (default is 500)
+# ensure synchronization between bash memory and history file
+export PROMPT_COMMAND="history -a; history -n; ${PROMPT_COMMAND}"
+# if this is interactive shell, then bind hstr to Ctrl-r (for Vi mode check doc)
+if [[ $- =~ .*i.* ]]; then bind '"\C-r": " hstr -- \C-j"'; fi
+# if this is interactive shell, then bind 'kill last command' to Ctrl-x k
+if [[ $- =~ .*i.* ]]; then bind '"\C-xk": " hstr -k \C-j"'; fi
+# if this is an interactive shell, then bind ranger to Ctrl-f 
+if [[ $- =~ .*i.* ]]; then bind '"\C-f": " ranger \C-j"'; fi
+
+
+
+
+
+#############OK NEXT TIME YOU SEE THIS REMEMBER TO ORGANIZE IN MULTIPLE FILES AND CLEAN
+
+
+
+
+
+## HERE I'LL EXPORT SOME STUFF TO CLEAN MY HOME DIR
+export GEM_HOME="$XDG_DATA_HOME"/gem;
+export GEM_SPEC_CACHE="$XDG_CACHE_HOME"/gem;
+export KDEHOME="$XDG_CONFIG_HOME"/kde;
+export MPLAYER_HOME="$XDG_CONFIG_HOME"/mplayer;

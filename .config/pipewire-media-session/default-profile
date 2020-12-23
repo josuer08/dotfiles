@@ -1,2 +1,0 @@
-alsa_card.pci-0000:0b:00.4 output:iec958-stereo+input:analog-stereo
-alsa_card.pci-0000:09:00.1 output:hdmi-stereo-extra1

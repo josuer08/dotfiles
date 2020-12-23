@@ -1,0 +1,14 @@
+#!/bin/bash
+
+# update the TOKEN and the CHANNELID, rest is optional
+# you may need to connect with a websocket the first time you run the bot
+#   use a library like discord.py to do so
+value="{\"content\":\"$@\"}";
+echo $value '{"content":"Posting as a bot"}' ;
+curl -v \
+-H "Authorization: Bot TOKEN" \
+-H "User-Agent: myBotThing (http://some.url, v0.1)" \
+-H "Content-Type: application/json" \
+-X POST \
+-d "$value" \
+https://discord.com/api/webhooks/761060841020981268/EZbAW-i5W0VSE4OtUkk3wttvdOAKnCZYuibw231IZhtzMgKUGau2_dYKixGzsgP6s0SB

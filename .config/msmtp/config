@@ -1,7 +1,0 @@
-defaults
-auth	on
-tls	on
-tls_trust_file	/etc/ssl/certs/ca-certificates.crt
-logfile /home/josuer08/.config/msmtp/msmtp.log
-
-
