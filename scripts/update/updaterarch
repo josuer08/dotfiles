@@ -1,7 +1,0 @@
-#!/bin/bash
-if [ $2 == "0" ]
-then
-  a
-else
-  a
-fi
