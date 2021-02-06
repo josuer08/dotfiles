@@ -17,7 +17,7 @@
                 "monitoring_type": 0,
                 "muted": false,
                 "name": "gate",
-                "prev_ver": 436207618,
+                "prev_ver": 436273152,
                 "private_settings": {},
                 "push-to-mute": false,
                 "push-to-mute-delay": 0,
@@ -46,7 +46,7 @@
                 "monitoring_type": 0,
                 "muted": false,
                 "name": "Compressor",
-                "prev_ver": 436207618,
+                "prev_ver": 436273152,
                 "private_settings": {},
                 "push-to-mute": false,
                 "push-to-mute-delay": 0,
@@ -75,7 +75,7 @@
                 "monitoring_type": 0,
                 "muted": false,
                 "name": "Noise Suppression",
-                "prev_ver": 436207618,
+                "prev_ver": 436273152,
                 "private_settings": {},
                 "push-to-mute": false,
                 "push-to-mute-delay": 0,
@@ -98,7 +98,7 @@
                 "monitoring_type": 0,
                 "muted": false,
                 "name": "Limiter",
-                "prev_ver": 436207618,
+                "prev_ver": 436273152,
                 "private_settings": {},
                 "push-to-mute": false,
                 "push-to-mute-delay": 0,
@@ -123,9 +123,9 @@
         "id": "pulse_input_capture",
         "mixers": 255,
         "monitoring_type": 2,
-        "muted": false,
+        "muted": true,
         "name": "Mic/Aux",
-        "prev_ver": 436207618,
+        "prev_ver": 436273152,
         "private_settings": {},
         "push-to-mute": false,
         "push-to-mute-delay": 0,
@@ -155,7 +155,7 @@
         "monitoring_type": 0,
         "muted": true,
         "name": "Desktop Audio",
-        "prev_ver": 436207618,
+        "prev_ver": 436273152,
         "private_settings": {},
         "push-to-mute": false,
         "push-to-mute-delay": 0,
@@ -168,7 +168,7 @@
         "versioned_id": "pulse_output_capture",
         "volume": 1.0
     },
-    "current_program_scene": "terms-cam",
+    "current_program_scene": "top",
     "current_scene": "terms-cam",
     "current_transition": "Fade",
     "groups": [],
@@ -179,6 +179,9 @@
             "non_matching_scene": "",
             "switch_if_not_matching": false,
             "switches": []
+        },
+        "decklink_captions": {
+            "source": ""
         },
         "output-timer": {
             "autoStartRecordTimer": false,
@@ -240,208 +243,76 @@
             "deinterlace_field_order": 0,
             "deinterlace_mode": 0,
             "enabled": true,
-            "flags": 0,
-            "hotkeys": {
-                "linuxbrowser.reloadpage": []
-            },
-            "id": "linuxbrowser-source",
-            "mixers": 0,
-            "monitoring_type": 0,
-            "muted": false,
-            "name": "Linux Browser",
-            "prev_ver": 436207618,
-            "private_settings": {},
-            "push-to-mute": false,
-            "push-to-mute-delay": 0,
-            "push-to-talk": false,
-            "push-to-talk-delay": 0,
-            "settings": {
-                "fps": 60,
-                "height": 1080,
-                "hide_scrollbars": true,
-                "url": "http://192.168.1.170:8080/",
-                "width": 1920
-            },
-            "sync": 0,
-            "versioned_id": "linuxbrowser-source",
-            "volume": 1.0
-        },
-        {
-            "balance": 0.5,
-            "deinterlace_field_order": 0,
-            "deinterlace_mode": 0,
-            "enabled": true,
-            "flags": 0,
-            "hotkeys": {},
-            "id": "xshm_input",
-            "mixers": 0,
-            "monitoring_type": 0,
-            "muted": false,
-            "name": "topscreen",
-            "prev_ver": 436207618,
-            "private_settings": {},
-            "push-to-mute": false,
-            "push-to-mute-delay": 0,
-            "push-to-talk": false,
-            "push-to-talk-delay": 0,
-            "settings": {
-                "screen": 0
-            },
-            "sync": 0,
-            "versioned_id": "xshm_input",
-            "volume": 1.0
-        },
-        {
-            "balance": 0.5,
-            "deinterlace_field_order": 0,
-            "deinterlace_mode": 0,
-            "enabled": true,
-            "flags": 0,
-            "hotkeys": {
-                "OBSBasic.SelectScene": [],
-                "libobs.hide_scene_item.term2": [],
-                "libobs.hide_scene_item.topscreen": [],
-                "libobs.show_scene_item.term2": [],
-                "libobs.show_scene_item.topscreen": []
-            },
-            "id": "scene",
-            "mixers": 0,
-            "monitoring_type": 0,
-            "muted": false,
-            "name": "top",
-            "prev_ver": 436207618,
-            "private_settings": {},
-            "push-to-mute": false,
-            "push-to-mute-delay": 0,
-            "push-to-talk": false,
-            "push-to-talk-delay": 0,
-            "settings": {
-                "custom_size": false,
-                "id_counter": 4,
-                "items": [
-                    {
-                        "align": 5,
-                        "bounds": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "bounds_align": 0,
-                        "bounds_type": 0,
-                        "crop_bottom": 0,
-                        "crop_left": 0,
-                        "crop_right": 0,
-                        "crop_top": 0,
-                        "group_item_backup": false,
-                        "id": 1,
-                        "locked": false,
-                        "name": "topscreen",
-                        "pos": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "private_settings": {},
-                        "rot": 0.0,
-                        "scale": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "scale_filter": "disable",
-                        "visible": true
+            "filters": [
+                {
+                    "balance": 0.5,
+                    "deinterlace_field_order": 0,
+                    "deinterlace_mode": 0,
+                    "enabled": true,
+                    "flags": 0,
+                    "hotkeys": {},
+                    "id": "chroma_key_filter",
+                    "mixers": 0,
+                    "monitoring_type": 0,
+                    "muted": false,
+                    "name": "greenout",
+                    "prev_ver": 436273152,
+                    "private_settings": {},
+                    "push-to-mute": false,
+                    "push-to-mute-delay": 0,
+                    "push-to-talk": false,
+                    "push-to-talk-delay": 0,
+                    "settings": {},
+                    "sync": 0,
+                    "versioned_id": "chroma_key_filter",
+                    "volume": 1.0
+                },
+                {
+                    "balance": 0.5,
+                    "deinterlace_field_order": 0,
+                    "deinterlace_mode": 0,
+                    "enabled": true,
+                    "flags": 0,
+                    "hotkeys": {},
+                    "id": "color_filter",
+                    "mixers": 0,
+                    "monitoring_type": 0,
+                    "muted": false,
+                    "name": "Color Correction",
+                    "prev_ver": 436273152,
+                    "private_settings": {},
+                    "push-to-mute": false,
+                    "push-to-mute-delay": 0,
+                    "push-to-talk": false,
+                    "push-to-talk-delay": 0,
+                    "settings": {
+                        "brightness": -0.01,
+                        "contrast": 0.14999999999999999,
+                        "gamma": -0.37,
+                        "opacity": 100,
+                        "saturation": -0.34000000000000002
                     },
-                    {
-                        "align": 5,
-                        "bounds": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "bounds_align": 0,
-                        "bounds_type": 0,
-                        "crop_bottom": 0,
-                        "crop_left": 0,
-                        "crop_right": 0,
-                        "crop_top": 0,
-                        "group_item_backup": false,
-                        "id": 4,
-                        "locked": false,
-                        "name": "term2",
-                        "pos": {
-                            "x": 1384.0,
-                            "y": 778.0
-                        },
-                        "private_settings": {},
-                        "rot": 0.0,
-                        "scale": {
-                            "x": 0.27916666865348816,
-                            "y": 0.27962961792945862
-                        },
-                        "scale_filter": "disable",
-                        "visible": true
-                    }
-                ]
-            },
-            "sync": 0,
-            "versioned_id": "scene",
-            "volume": 1.0
-        },
-        {
-            "balance": 0.5,
-            "deinterlace_field_order": 0,
-            "deinterlace_mode": 0,
-            "enabled": true,
+                    "sync": 0,
+                    "versioned_id": "color_filter",
+                    "volume": 1.0
+                }
+            ],
             "flags": 0,
-            "hotkeys": {
-                "OBSBasic.SelectScene": [],
-                "libobs.hide_scene_item.camera": [],
-                "libobs.show_scene_item.camera": []
-            },
-            "id": "scene",
+            "hotkeys": {},
+            "id": "xcomposite_input",
             "mixers": 0,
             "monitoring_type": 0,
             "muted": false,
-            "name": "onlycam",
-            "prev_ver": 436207618,
+            "name": "term2",
+            "prev_ver": 436273152,
             "private_settings": {},
             "push-to-mute": false,
             "push-to-mute-delay": 0,
             "push-to-talk": false,
             "push-to-talk-delay": 0,
-            "settings": {
-                "custom_size": false,
-                "id_counter": 4,
-                "items": [
-                    {
-                        "align": 5,
-                        "bounds": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "bounds_align": 0,
-                        "bounds_type": 0,
-                        "crop_bottom": 0,
-                        "crop_left": 0,
-                        "crop_right": 0,
-                        "crop_top": 0,
-                        "group_item_backup": false,
-                        "id": 2,
-                        "locked": false,
-                        "name": "camera",
-                        "pos": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "private_settings": {},
-                        "rot": 0.0,
-                        "scale": {
-                            "x": 0.56302082538604736,
-                            "y": 0.56296294927597046
-                        },
-                        "scale_filter": "disable",
-                        "visible": true
-                    }
-                ]
-            },
+            "settings": {},
             "sync": 0,
-            "versioned_id": "scene",
+            "versioned_id": "xcomposite_input",
             "volume": 1.0
         },
         {
@@ -451,33 +322,22 @@
             "enabled": true,
             "flags": 0,
             "hotkeys": {},
-            "id": "v4l2_input",
+            "id": "xcomposite_input",
             "mixers": 0,
             "monitoring_type": 0,
             "muted": false,
-            "name": "camera",
-            "prev_ver": 436207618,
+            "name": "term1",
+            "prev_ver": 436273152,
             "private_settings": {},
             "push-to-mute": false,
             "push-to-mute-delay": 0,
             "push-to-talk": false,
             "push-to-talk-delay": 0,
             "settings": {
-                "Brightness": 51,
-                "Contrast": 52,
-                "Hue": 50,
-                "Saturation": 67,
-                "White Balance Temperature, Auto": true,
-                "buffering": false,
-                "color_range": 2,
-                "device_id": "/dev/video0",
-                "framerate": 65596,
-                "input": 0,
-                "pixelformat": 861030210,
-                "resolution": -1
+                "capture_window": "18874370\r\njosuer08@3600:~\r\nAlacritty"
             },
             "sync": 0,
-            "versioned_id": "v4l2_input",
+            "versioned_id": "xcomposite_input",
             "volume": 1.0
         },
         {
@@ -502,7 +362,7 @@
             "monitoring_type": 0,
             "muted": false,
             "name": "terms-cam",
-            "prev_ver": 436207618,
+            "prev_ver": 436273152,
             "private_settings": {},
             "push-to-mute": false,
             "push-to-mute-delay": 0,
@@ -641,22 +501,33 @@
             "enabled": true,
             "flags": 0,
             "hotkeys": {},
-            "id": "xcomposite_input",
+            "id": "v4l2_input",
             "mixers": 0,
             "monitoring_type": 0,
             "muted": false,
-            "name": "term1",
-            "prev_ver": 436207618,
+            "name": "camera",
+            "prev_ver": 436273152,
             "private_settings": {},
             "push-to-mute": false,
             "push-to-mute-delay": 0,
             "push-to-talk": false,
             "push-to-talk-delay": 0,
             "settings": {
-                "capture_window": "18874370\r\njosuer08@3600:~\r\nAlacritty"
+                "Brightness": 51,
+                "Contrast": 52,
+                "Hue": 50,
+                "Saturation": 67,
+                "White Balance Temperature, Auto": true,
+                "buffering": false,
+                "color_range": 2,
+                "device_id": "/dev/video0",
+                "framerate": 65596,
+                "input": 0,
+                "pixelformat": 861030210,
+                "resolution": -1
             },
             "sync": 0,
-            "versioned_id": "xcomposite_input",
+            "versioned_id": "v4l2_input",
             "volume": 1.0
         },
         {
@@ -664,76 +535,208 @@
             "deinterlace_field_order": 0,
             "deinterlace_mode": 0,
             "enabled": true,
-            "filters": [
-                {
-                    "balance": 0.5,
-                    "deinterlace_field_order": 0,
-                    "deinterlace_mode": 0,
-                    "enabled": true,
-                    "flags": 0,
-                    "hotkeys": {},
-                    "id": "chroma_key_filter",
-                    "mixers": 0,
-                    "monitoring_type": 0,
-                    "muted": false,
-                    "name": "greenout",
-                    "prev_ver": 436207618,
-                    "private_settings": {},
-                    "push-to-mute": false,
-                    "push-to-mute-delay": 0,
-                    "push-to-talk": false,
-                    "push-to-talk-delay": 0,
-                    "settings": {},
-                    "sync": 0,
-                    "versioned_id": "chroma_key_filter",
-                    "volume": 1.0
-                },
-                {
-                    "balance": 0.5,
-                    "deinterlace_field_order": 0,
-                    "deinterlace_mode": 0,
-                    "enabled": true,
-                    "flags": 0,
-                    "hotkeys": {},
-                    "id": "color_filter",
-                    "mixers": 0,
-                    "monitoring_type": 0,
-                    "muted": false,
-                    "name": "Color Correction",
-                    "prev_ver": 436207618,
-                    "private_settings": {},
-                    "push-to-mute": false,
-                    "push-to-mute-delay": 0,
-                    "push-to-talk": false,
-                    "push-to-talk-delay": 0,
-                    "settings": {
-                        "brightness": -0.01,
-                        "contrast": 0.14999999999999999,
-                        "gamma": -0.37,
-                        "opacity": 100,
-                        "saturation": -0.34000000000000002
-                    },
-                    "sync": 0,
-                    "versioned_id": "color_filter",
-                    "volume": 1.0
-                }
-            ],
             "flags": 0,
-            "hotkeys": {},
-            "id": "xcomposite_input",
+            "hotkeys": {
+                "OBSBasic.SelectScene": [],
+                "libobs.hide_scene_item.camera": [],
+                "libobs.show_scene_item.camera": []
+            },
+            "id": "scene",
             "mixers": 0,
             "monitoring_type": 0,
             "muted": false,
-            "name": "term2",
-            "prev_ver": 436207618,
+            "name": "onlycam",
+            "prev_ver": 436273152,
             "private_settings": {},
             "push-to-mute": false,
             "push-to-mute-delay": 0,
             "push-to-talk": false,
             "push-to-talk-delay": 0,
-            "settings": {},
+            "settings": {
+                "custom_size": false,
+                "id_counter": 4,
+                "items": [
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 2,
+                        "locked": false,
+                        "name": "camera",
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 0.56302082538604736,
+                            "y": 0.56296294927597046
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    }
+                ]
+            },
             "sync": 0,
-            "versioned_id": "xcomposite_input",
+            "versioned_id": "scene",
+            "volume": 1.0
+        },
+        {
+            "balance": 0.5,
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "flags": 0,
+            "hotkeys": {
+                "OBSBasic.SelectScene": [],
+                "libobs.hide_scene_item.term2": [],
+                "libobs.hide_scene_item.topscreen": [],
+                "libobs.show_scene_item.term2": [],
+                "libobs.show_scene_item.topscreen": []
+            },
+            "id": "scene",
+            "mixers": 0,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "top",
+            "prev_ver": 436273152,
+            "private_settings": {},
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "custom_size": false,
+                "id_counter": 4,
+                "items": [
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 1,
+                        "locked": false,
+                        "name": "topscreen",
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 1.4055637121200562,
+                            "y": 1.4049478769302368
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 4,
+                        "locked": false,
+                        "name": "term2",
+                        "pos": {
+                            "x": 1384.0,
+                            "y": 778.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 0.27916666865348816,
+                            "y": 0.27962961792945862
+                        },
+                        "scale_filter": "disable",
+                        "visible": false
+                    }
+                ]
+            },
+            "sync": 0,
+            "versioned_id": "scene",
+            "volume": 1.0
+        },
+        {
+            "balance": 0.5,
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "flags": 0,
+            "hotkeys": {},
+            "id": "xshm_input",
+            "mixers": 0,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "topscreen",
+            "prev_ver": 436273152,
+            "private_settings": {},
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "screen": 0
+            },
+            "sync": 0,
+            "versioned_id": "xshm_input",
+            "volume": 1.0
+        },
+        {
+            "balance": 0.5,
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "flags": 0,
+            "hotkeys": {
+                "linuxbrowser.reloadpage": []
+            },
+            "id": "linuxbrowser-source",
+            "mixers": 0,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "Linux Browser",
+            "prev_ver": 436273152,
+            "private_settings": {},
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "fps": 60,
+                "height": 1080,
+                "hide_scrollbars": true,
+                "url": "http://192.168.1.170:8080/",
+                "width": 1920
+            },
+            "sync": 0,
+            "versioned_id": "linuxbrowser-source",
             "volume": 1.0
         }
     ],

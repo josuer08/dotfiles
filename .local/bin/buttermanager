@@ -1,0 +1,3 @@
+#!/bin/bash
+cd /opt/buttermanager/buttermanager;
+/opt/buttermanager/env/bin/python3 /opt/buttermanager/buttermanager/buttermanager.py;
