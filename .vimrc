@@ -1,12 +1,12 @@
 set nocompatible "its just because if i share it it might be useful
 set number
-set relativenumber 
+set relativenumber
 "FOR FINDING FILES:
 "a better way to find everything that is in my actual subfolder or bellow
 set path+=**
-set wildmenu 
+set wildmenu
 "una nota importante es que podemos simplemente usar ":b nombre" para
-"cambiar entre los buffers que tenemos abiertos, los que podemos ver 
+"cambiar entre los buffers que tenemos abiertos, los que podemos ver
 "con el comando ":ls" que nos deja ver todos los buffer
 
 

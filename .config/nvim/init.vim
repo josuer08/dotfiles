@@ -1,11 +1,10 @@
 " Specify a directory for plugins
 call plug#begin('~/.config/nvim/plugins/plugged')
 
+Plug 'nvim-lua/popup.nvim'
+Plug 'nvim-lua/plenary.nvim'
+Plug 'nvim-telescope/telescope.nvim'
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
-Plug 'scrooloose/nerdtree'
-"Plug 'tsony-tsonev/nerdtree-git-plugin'
-Plug 'Xuyuanp/nerdtree-git-plugin'
-Plug 'tiagofumo/vim-nerdtree-syntax-highlight'
 Plug 'ryanoasis/vim-devicons'
 Plug 'airblade/vim-gitgutter'
 Plug 'scrooloose/nerdcommenter'
@@ -37,4 +36,6 @@ nmap ++ <plug>NERDCommenterToggle
 " j/k will move virtual lines (lines that wrap)
 noremap <silent> <expr> j (v:count == 0 ? 'gj' : 'j')
 noremap <silent> <expr> k (v:count == 0 ? 'gk' : 'k')
-
+"Vex
+nnoremap <leader>v :Vex<CR>
+nnoremap <leader>h :Sex<CR>
