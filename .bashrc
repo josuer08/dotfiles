@@ -2,7 +2,7 @@
 # see /usr/share/doc/bash/examples/startup-files (in the package bash-doc)
 # for examples
 export EDITOR=vim;
-export VISUAL=vim; #Nano is the main editor
+export VISUAL=nvim; #Nano is the main editor
 # If not running interactively, don't do anything
 case $- in
     *i*) ;;
@@ -99,8 +99,8 @@ alias ccat='highlight --out-format=ansi'
 # activates the autocd mode
 shopt -s autocd
 # wifi available
-alias wifi='nmcli d wifi'
-
+alias wifi='nmcli d wifi';
+edit () { du -a "$1" | awk '{print $2}' | fzf | xargs -r "$VISUAL" ;}
 # personalized ps1 #################################################################################
 # .bashrc (or .bash_profile)
 
@@ -297,32 +297,11 @@ export PATH="$HOME/.gem/ruby/2.7.0/bin:$PATH";
 source /usr/share/bash-completion/bash_completion; #this is just for better completion
 bind 'set show-all-if-ambiguous on';
 bind 'TAB:menu-complete';
-
-# HSTR configuration - add this to ~/.bashrc
-alias hh=hstr                    # hh to be alias for hstr
-export HSTR_CONFIG=hicolor       # get more colors
-shopt -s histappend              # append new history items to .bash_history
-export HISTCONTROL=ignorespace   # leading space hides commands from history
-export HISTFILESIZE=10000        # increase history file size (default is 500)
-export HISTSIZE=${HISTFILESIZE}  # increase history size (default is 500)
-# ensure synchronization between bash memory and history file
-export PROMPT_COMMAND="history -a; history -n; ${PROMPT_COMMAND}"
-# if this is interactive shell, then bind hstr to Ctrl-r (for Vi mode check doc)
-if [[ $- =~ .*i.* ]]; then bind '"\C-r": " hstr -- \C-j"'; fi
-# if this is interactive shell, then bind 'kill last command' to Ctrl-x k
-if [[ $- =~ .*i.* ]]; then bind '"\C-xk": " hstr -k \C-j"'; fi
-# if this is an interactive shell, then bind ranger to Ctrl-f 
-if [[ $- =~ .*i.* ]]; then bind '"\C-f": " ranger \C-j"'; fi
-
-
-
-
-
+source /usr/share/fzf/completion.bash
+source /usr/share/fzf/key-bindings.bash
+pacget () { pacman -Slq | fzf --multi --preview 'pacman -Si {1}' | xargs -ro sudo pacman -S ;}
+pacdel () { pacman -Qq | fzf --multi --preview 'pacman -Qi {1}' | xargs -ro sudo pacman -Rns ;}
 #############OK NEXT TIME YOU SEE THIS REMEMBER TO ORGANIZE IN MULTIPLE FILES AND CLEAN
-
-
-
-
 
 ## HERE I'LL EXPORT SOME STUFF TO CLEAN MY HOME DIR
 export GEM_HOME="$XDG_DATA_HOME"/gem;
