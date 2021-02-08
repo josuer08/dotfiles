@@ -1,5 +1,5 @@
 # Dotfiles
-> Oscar J Rodriguez B
+    > Oscar J Rodriguez B
 This is a repo with all of my configurations, it goes from AwesomeWM, TMUX, nvim, vim, nano (yes, nano) and some other programs. I'll try to keep this as updated as possible.
 ## What can I use from here?
 
@@ -11,6 +11,7 @@ Well, you are free to take whatever you want, report eny bugs, make pull request
 4) Enjoy!
 
 ## Tree of my home
+```
 .dotfiles/
 ├── .config
 │   ├── awesome
@@ -47,4 +48,4 @@ Well, you are free to take whatever you want, report eny bugs, make pull request
 ├── .nano
 ├── scripts
 └── .tmux
-
+```
