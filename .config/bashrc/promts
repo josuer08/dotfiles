@@ -1,0 +1,24 @@
+#!/bin/bash
+
+# personalized ps1 #################################################################################
+
+# declares an array with the emojis we want to support
+EMOJIS=(👻 💀 👽 👾 🎃 😎 🧠 🦘 🦍 🎻)
+
+# selects a random element from the EMOJIS set
+SELECTED_EMOJI=${EMOJIS[$RANDOM % ${#EMOJIS[@]}]};
+# declare the terminal prompt format
+#export PS1='${SELECTED_EMOJI}  [\u@\h \W]$ '
+#export PS1="\e[1;90m[\$?]\e[m\e[1;92m\[$(tput bold)\]\u@\h\e[m\[$(tput sgr0)\]:\e[0;36m\w\e[m\n\\$";
+export PS1="\e[1;90m[\$?]\e[m\e[1;92m\[$(tput bold)\]\u@\h\e[m\[$(tput sgr0)\]:\e[0;36m\w\e[m\n${SELECTED_EMOJI}";
+
+
+####################################################################################################
+
+cat ~/.cache/wal/sequences & #This imports the theme from the last pywal
+
+
+#export PS1="\[\033[38;5;247m\][\$?]\[$(tput sgr0)\]\[$(tput bold)\]\[\033[38;5;40m\]\u@\h\[$(tput sgr0)\]:\[$(tput sgr0)\]\[\033[38;5;45m\]\w\[$(tput sgr0)\]\n\\$\[$(tput sgr0)\]"
+
+#figlet de mi nombre
+whoami | figlet Josuer08 | lolcat -F 0.25;

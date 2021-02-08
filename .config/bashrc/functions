@@ -1,0 +1,161 @@
+#!/bin/bash
+
+# transform md anotations into PDF
+mdpdf () { pandoc "$1".md -t beamer -o "$1".pdf ;}
+# Get all metadata
+metadata () { echo "Salida del comando stat" ; stat "$1" ; echo "Salida del comando ls -lisan" ; ls -lisan "$1" ; echo "salida del comando exiftool" ; exiftool "$1" ;}
+# activates the autocd mode
+shopt -s autocd
+edit () { du -a -L "$1" | awk '{print $2}' | fzf | xargs -r "$VISUAL" ;}
+
+function cdls() {
+    DIR="$*";
+        # if no DIR given, go home
+        if [ $# -lt 1 ]; then
+                DIR=$HOME;
+    fi;
+    builtin cd "${DIR}" && \
+    # use your preferred ls command
+        ls -F --color=auto
+}
+
+
+#vicat is a color and line number cat
+
+function vicat() {
+  ccat $@ | nl;
+
+}
+
+
+#top10 commands
+top10() { history | awk '{a[$2]++ } END{for(i in a){print a[i] " " i}}' | sort -rn | head; }
+# goes up by the number of directories
+up() {
+  local d=""
+  limit=$1
+  for ((i=1 ; i <= limit ; i++)); do
+    d=$d/..
+  done
+  d=$(echo $d | sed 's/^\///')
+  if [[ -z "$d" ]]; then
+    d=..
+  fi
+  cd $d
+}
+# ARCHIVE EXTRACTOR {{{
+extract() {
+  clrstart="\033[1;34m"  #color codes
+  clrend="\033[0m"
+
+  if [[ "$#" -lt 1 ]]; then
+    echo -e "${clrstart}Pass a filename. Optionally a destination folder. You can also append a v for verbose output.${clrend}"
+    exit 1 #not enough args
+  fi
+
+  if [[ ! -e "$1" ]]; then
+    echo -e "${clrstart}File does not exist!${clrend}"
+    exit 2 #file not found
+  fi
+
+  if [[ -z "$2" ]]; then
+    DESTDIR="." #set destdir to current dir
+  elif [[ ! -d "$2" ]]; then
+    echo -e -n "${clrstart}Destination folder doesn't exist or isnt a directory. Create? (y/n): ${clrend}"
+    read response
+    #echo -e "\n"
+    if [[ $response == y || $response == Y ]]; then
+      mkdir -p "$2"
+      if [ $? -eq 0 ]; then
+        DESTDIR="$2"
+      else
+        exit 6 #Write perms error
+      fi
+    else
+      echo -e "${clrstart}Closing.${clrend}"; exit 3 # n/wrong response
+    fi
+  else
+    DESTDIR="$2"
+  fi
+
+  if [[ ! -z "$3" ]]; then
+    if [[ "$3" != "v" ]]; then
+      echo -e "${clrstart}Wrong argument $3 !${clrend}"
+      exit 4 #wrong arg 3
+    fi
+  fi
+
+  filename=`basename "$1"`
+
+  #echo "${filename##*.}" debug
+
+  case "${filename##*.}" in
+    tar)
+      echo -e "${clrstart}Extracting $1 to $DESTDIR: (uncompressed tar)${clrend}"
+      tar x${3}f "$1" -C "$DESTDIR"
+      ;;
+    gz)
+      echo -e "${clrstart}Extracting $1 to $DESTDIR: (gip compressed tar)${clrend}"
+      tar x${3}fz "$1" -C "$DESTDIR"
+      ;;
+    tgz)
+      echo -e "${clrstart}Extracting $1 to $DESTDIR: (gip compressed tar)${clrend}"
+      tar x${3}fz "$1" -C "$DESTDIR"
+      ;;
+    xz)
+      echo -e "${clrstart}Extracting  $1 to $DESTDIR: (gip compressed tar)${clrend}"
+      tar x${3}f -J "$1" -C "$DESTDIR"
+      ;;
+    bz2)
+      echo -e "${clrstart}Extracting $1 to $DESTDIR: (bzip compressed tar)${clrend}"
+      tar x${3}fj "$1" -C "$DESTDIR"
+      ;;
+    zip)
+      echo -e "${clrstart}Extracting $1 to $DESTDIR: (zipp compressed file)${clrend}"
+      unzip "$1" -d "$DESTDIR"
+      ;;
+    rar)
+      echo -e "${clrstart}Extracting $1 to $DESTDIR: (rar compressed file)${clrend}"
+      unrar x "$1" "$DESTDIR"
+      ;;
+    7z)
+      echo -e  "${clrstart}Extracting $1 to $DESTDIR: (7zip compressed file)${clrend}"
+      7za e "$1" -o"$DESTDIR"
+      ;;
+    *)
+      echo -e "${clrstart}Unknown archieve format!"
+      exit 5
+      ;;
+  esac
+}
+#}}}
+
+
+
+# REMIND ME, ITS IMPORTANT! {{{
+# usage: remindme <time> <text>
+# e.g.: remindme 10m "omg, the pizza"
+remindme() {
+  if [[ "$#" -lt 2 ]]; then
+    echo -e "Usage: remindme [time] '[message]'"
+    echo -e "Example: remindme 50s 'check mail'"
+    echo -e "Example: remindme 10m 'go to class'"
+    #exit 0 #not enough args
+  fi
+  if [[ "$#" -gt 2 ]]; then
+    echo -e "Usage: remindme [time] '[message]'"
+    echo -e "Example: remindme 50s 'check mail'"
+    echo -e "Example: remindme 10m 'go to class'"
+    #exit 0 #more than enough args
+  fi
+  if  [[ "$#" == 2 ]]; then
+    sleep $1 && notify-send -t 15000 "$2" & echo 'Reminder set'
+  fi
+  }
+
+#}}}
+
+
+
+pacget () { pacman -Slq | fzf --multi --preview 'pacman -Si {1}' | xargs -ro sudo pacman -S ;}
+pacdel () { pacman -Qq | fzf --multi --preview 'pacman -Qi {1}' | xargs -ro sudo pacman -Rns ;}
