@@ -100,7 +100,7 @@ alias ccat='highlight --out-format=ansi'
 shopt -s autocd
 # wifi available
 alias wifi='nmcli d wifi';
-edit () { du -a "$1" | awk '{print $2}' | fzf | xargs -r "$VISUAL" ;}
+edit () { du -a -L "$1" | awk '{print $2}' | fzf | xargs -r "$VISUAL" ;}
 # personalized ps1 #################################################################################
 # .bashrc (or .bash_profile)
 
@@ -126,8 +126,6 @@ alias autowal='wal --iterative -i /usr/share/backgrounds/ > /dev/null'
 #figlet de mi nombre
 whoami | figlet Josuer08 | lolcat -F 0.25;
 #whoami | figlet Josuer08 | lolcat;
-# agragando el comando gitdotfiles para manejar los dotfiles
-alias gitdotfiles='/usr/bin/git --git-dir=$HOME/Documents/dotfiles/ --work-tree=$HOME';
 
 function cdls() {
     DIR="$*";
