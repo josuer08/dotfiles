@@ -26,8 +26,6 @@ syntax on
 "let mapleader = " "
 "jk in insert mode takes you back to normal mode
 inoremap jk <ESC>
-"Ctrl-n activates nerd toggle
-nmap <C-n> :NERDTreeToggle<CR>
 "Ctrl-s saves
 nmap <C-s> :w<CR>
 "++ in vmap or nmap coments
@@ -39,6 +37,18 @@ noremap <silent> <expr> k (v:count == 0 ? 'gk' : 'k')
 "Vex
 nnoremap <leader>v :Vex<CR>
 nnoremap <leader>h :Sex<CR>
+
+function! Grepper()
+    call inputsave()
+    let replacement = input('RegExp: ')
+    let workdir = input('Directory: ')
+    call inputrestore()
+    execute 'grep! -Irn '.replacement.' '.workdir
+endfunction
+nnoremap <silent> <leader>gg  :call Grepper()<CR>:copen<CR>
+
+
+
 " this is an auto changer for relative numbers
 :augroup numbertoggle
 :  autocmd!
