@@ -6,7 +6,7 @@ mdpdf () { pandoc "$1".md -t beamer -o "$1".pdf ;}
 metadata () { echo "Salida del comando stat" ; stat "$1" ; echo "Salida del comando ls -lisan" ; ls -lisan "$1" ; echo "salida del comando exiftool" ; exiftool "$1" ;}
 # activates the autocd mode
 shopt -s autocd
-edit () { du -a -L "$1" | awk '{print $2}' | fzf | xargs -r "$VISUAL" ;}
+edit () { du -a -L "$1" | awk '{print $2}' | fzf --multi --preview 'vicat {1}' | xargs -r "$VISUAL" ;}
 
 function cdls() {
     DIR="$*";
@@ -20,12 +20,6 @@ function cdls() {
 }
 
 
-#vicat is a color and line number cat
-
-function vicat() {
-  ccat $@ | nl;
-
-}
 
 
 #top10 commands

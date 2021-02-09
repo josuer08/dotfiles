@@ -26,8 +26,6 @@ alias byebye='shutdown now'
 
 
 
-# use highlight for colored cat
-alias ccat='highlight --out-format=ansi'
 
 # wifi available
 alias wifi='nmcli d wifi';
