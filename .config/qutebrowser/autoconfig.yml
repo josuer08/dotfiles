@@ -9,6 +9,7 @@ settings:
   auto_save.session:
     global: true
   content.media.audio_capture:
+    https://anchor.fm: true
     https://zencastr.com: true
   content.notifications:
     https://web.telegram.org: true
