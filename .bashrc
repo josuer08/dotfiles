@@ -35,14 +35,6 @@ fi
 
 #########################################AUTOCOMPLETION#####################
 # sources /etc/bash.bashrc).
-if ! shopt -oq posix; then
-  if [ -f /usr/share/bash-completion/bash_completion ]; then
-    . /usr/share/bash-completion/bash_completion
-  elif [ -f /etc/bash_completion ]; then
-    . /etc/bash_completion
-  fi
-fi
-
 if [ -f /usr/share/fzf/completion.bash ];
 then
 source /usr/share/fzf/completion.bash
@@ -55,8 +47,14 @@ fi
 # autocomplete for sudo man and wich
 complete -cf sudo man wich;
 #For arch
-bind 'set show-all-if-ambiguous on';
-bind 'TAB:menu-complete';
+if ! shopt -oq posix; then
+  if [ -f /usr/share/bash-completion/bash_completion ]; then
+    . /usr/share/bash-completion/bash_completion
+  elif [ -f /etc/bash_completion ]; then
+    . /etc/bash_completion
+  fi
+fi
+
 ###########################################################################
 
 ####################################HISTORY MANAGEMENT#####################
@@ -81,3 +79,9 @@ shopt -s checkwinsize
 # vi mode in the shell
 set -o vi
 
+
+
+
+source /usr/share/bash-completion/bash_completion
+bind 'set show-all-if-ambiguous on';
+bind 'TAB:menu-complete';

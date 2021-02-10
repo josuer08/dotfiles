@@ -9,6 +9,32 @@ set wildmenu
 "cambiar entre los buffers que tenemos abiertos, los que podemos ver
 "con el comando ":ls" que nos deja ver todos los buffer
 
+"REMAPS:
+inoremap jk <ESC>
+nnoremap <C-s> :w<CR>
+noremap <silent> <expr> j (v:count == 0 ? 'gj' : 'j')
+noremap <silent> <expr> k (v:count == 0 ? 'gk' : 'k')
+nnoremap <leader>v :Vex<CR>
+nnoremap <leader>h :Sex<CR>
+"searcher function
+function! Grepper()
+    call inputsave()
+    let replacement = input('RegExp: ')
+    let workdir = input('Directory: ')
+    call inputrestore()
+    execute 'grep! -Irn '.replacement.' '.workdir
+endfunction
+nnoremap <silent> <leader>g  :call Grepper()<CR>:copen<CR>
+
+
+
+" this is an auto changer for relative numbers
+:augroup numbertoggle
+:  autocmd!
+:  autocmd BufEnter,FocusGained,InsertLeave * set relativenumber
+:  autocmd BufLeave,FocusLost,InsertEnter   * set norelativenumber
+:augroup END
+
 
 "PARA CREAR TAGS EN UN PROYECTO:
 command! MakeTags !ctags -R .

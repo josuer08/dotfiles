@@ -1,5 +1,8 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhistcnt =2
+let g:netrw_dirhistcnt =5
+let g:netrw_dirhist_5='/home/josuer08/.dotfiles/.config/nvim'
+let g:netrw_dirhist_4='/home/josuer08/.dotfiles/.config'
+let g:netrw_dirhist_3='/home/josuer08/.dotfiles'
 let g:netrw_dirhist_2='/home/josuer08/Documents/tinysh'
 let g:netrw_dirhist_1='/home/josuer08/Documents'
 let g:netrw_dirhist_0='/home/josuer08/.dotfiles/.config/bashrc'
@@ -7,6 +10,3 @@ let g:netrw_dirhist_9='/home/josuer08/.dotfiles/.config'
 let g:netrw_dirhist_8='/home/josuer08/.dotfiles'
 let g:netrw_dirhist_7='/home/josuer08/.dotfiles/.config/bashrc'
 let g:netrw_dirhist_6='/home/josuer08/.dotfiles/.config'
-let g:netrw_dirhist_5='/home/josuer08/.dotfiles'
-let g:netrw_dirhist_4='/home/josuer08/.dotfiles/.config/bashrc'
-let g:netrw_dirhist_3='/home/josuer08/.dotfiles/.config'
