@@ -10,6 +10,12 @@ settings:
     global: true
   content.media.audio_capture:
     https://anchor.fm: true
+    https://meet.google.com: true
     https://zencastr.com: true
+  content.media.audio_video_capture:
+    https://meet.google.com: true
+  content.media.video_capture:
+    https://meet.google.com: true
   content.notifications:
+    https://meet.google.com: true
     https://web.telegram.org: true
