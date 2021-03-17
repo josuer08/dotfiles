@@ -1,0 +1,79 @@
+24/02/21 (18:43:07) | ERROR: [Errno 2] No such file or directory: '/home/josuer08/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1327, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/josuer08/.config/bpytop/themes'
+24/02/21 (19:31:11) | ERROR: [Errno 2] No such file or directory: '/home/josuer08/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1327, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/josuer08/.config/bpytop/themes'
+24/02/21 (19:31:12) | ERROR: Data collection thread failed with exception: integer division or modulo by zero
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 2925, in _runner
+    collector._draw()
+  File "/usr/bin/bpytop", line 3953, in _draw
+    ProcBox._draw_fg()
+  File "/usr/bin/bpytop", line 2800, in _draw_fg
+    val = ((v if v <= 100 else 100) + 100) - calc * 100 // cls.select_max
+ZeroDivisionError: integer division or modulo by zero
+24/02/21 (19:31:12) | WARNING: Exiting with errorcode (1). Runtime 0:00:02 
+
+24/02/21 (19:31:18) | ERROR: [Errno 2] No such file or directory: '/home/josuer08/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1327, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/josuer08/.config/bpytop/themes'
+24/02/21 (19:31:19) | ERROR: Data collection thread failed with exception: integer division or modulo by zero
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 2925, in _runner
+    collector._draw()
+  File "/usr/bin/bpytop", line 3953, in _draw
+    ProcBox._draw_fg()
+  File "/usr/bin/bpytop", line 2800, in _draw_fg
+    val = ((v if v <= 100 else 100) + 100) - calc * 100 // cls.select_max
+ZeroDivisionError: integer division or modulo by zero
+24/02/21 (19:31:19) | WARNING: Exiting with errorcode (1). Runtime 0:00:01 
+
+24/02/21 (19:31:24) | ERROR: [Errno 2] No such file or directory: '/home/josuer08/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1327, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/josuer08/.config/bpytop/themes'
+24/02/21 (19:31:25) | ERROR: Data collection thread failed with exception: integer division or modulo by zero
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 2925, in _runner
+    collector._draw()
+  File "/usr/bin/bpytop", line 3953, in _draw
+    ProcBox._draw_fg()
+  File "/usr/bin/bpytop", line 2800, in _draw_fg
+    val = ((v if v <= 100 else 100) + 100) - calc * 100 // cls.select_max
+ZeroDivisionError: integer division or modulo by zero
+24/02/21 (19:31:25) | WARNING: Exiting with errorcode (1). Runtime 0:00:01 
+
+24/02/21 (19:31:32) | ERROR: [Errno 2] No such file or directory: '/home/josuer08/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1327, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/josuer08/.config/bpytop/themes'
+24/02/21 (19:36:30) | ERROR: [Errno 2] No such file or directory: '/home/josuer08/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1327, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/josuer08/.config/bpytop/themes'
+01/03/21 (15:18:01) | ERROR: [Errno 2] No such file or directory: '/home/josuer08/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1327, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/josuer08/.config/bpytop/themes'
+01/03/21 (16:01:49) | ERROR: [Errno 2] No such file or directory: '/home/josuer08/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1327, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/josuer08/.config/bpytop/themes'
+01/03/21 (16:03:02) | ERROR: [Errno 2] No such file or directory: '/home/josuer08/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1327, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/josuer08/.config/bpytop/themes'
+01/03/21 (16:05:23) | INFO: Loglevel set to INFO

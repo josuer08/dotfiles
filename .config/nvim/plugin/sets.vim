@@ -20,3 +20,4 @@ set cmdheight=2
 set updatetime=300
 set shortmess+=c
 set statusline^=%{coc#status()}%{get(b:,'coc_current_function','')}
+set colorcolumn=80
