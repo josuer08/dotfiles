@@ -3,7 +3,7 @@
 # personalized ps1 #################################################################################
 
 # declares an array with the emojis we want to support
-EMOJIS=(👻 💀 👽 👾 🎃 😎 🧠 🦘 🦍 🎻)
+EMOJIS=(👻 💀 👽 👾 🎃 😎 🧠 🦘 🦍 🎻 🌳)
 
 # selects a random element from the EMOJIS set
 SELECTED_EMOJI=${EMOJIS[$RANDOM % ${#EMOJIS[@]}]};
@@ -12,7 +12,7 @@ SELECTED_EMOJI=${EMOJIS[$RANDOM % ${#EMOJIS[@]}]};
 #export PS1="\e[1;90m[\$?]\e[m\e[1;92m\[$(tput bold)\]\u@\h\e[m\[$(tput sgr0)\]:\e[0;36m\w\e[m\n\\$";
 export PS1="\e[1;90m[\$?]\e[m\e[1;92m\[$(tput bold)\]\u@\h\e[m\[$(tput sgr0)\]:\e[0;36m\w\e[m\n${SELECTED_EMOJI}";
 
-
+export PS2="~"
 ####################################################################################################
 
 cat ~/.cache/wal/sequences & #This imports the theme from the last pywal

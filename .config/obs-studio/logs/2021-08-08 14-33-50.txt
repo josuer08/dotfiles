@@ -1,0 +1,195 @@
+02:33:50 PM.819: CPU Name: AMD Ryzen 5 3600 6-Core Processor
+02:33:50 PM.819: CPU Speed: 2200.000MHz
+02:33:50 PM.819: Physical Cores: 6, Logical Cores: 12
+02:33:50 PM.819: Physical Memory: 32034MB Total, 24461MB Free
+02:33:50 PM.819: Kernel Version: Linux 5.13.5-arch1-1
+02:33:50 PM.819: Distribution: "Arch Linux" Unknown
+02:33:50 PM.819: Session Type: x11
+02:33:50 PM.819: Window System: X11.0, Vendor: The X.Org Foundation, Version: 1.20.12
+02:33:50 PM.819: Portable mode: false
+02:33:50 PM.846: OBS 27.0.1-2 (linux)
+02:33:50 PM.847: ---------------------------------
+02:33:50 PM.847: ---------------------------------
+02:33:50 PM.847: audio settings reset:
+02:33:50 PM.847: 	samples per sec: 48000
+02:33:50 PM.847: 	speakers:        2
+02:33:50 PM.850: ---------------------------------
+02:33:50 PM.850: Initializing OpenGL...
+02:33:50 PM.965: Loading up OpenGL on adapter NVIDIA Corporation NVIDIA GeForce GTX 1660 SUPER/PCIe/SSE2
+02:33:50 PM.965: OpenGL loaded successfully, version 3.3.0 NVIDIA 470.57.02, shading language 3.30 NVIDIA via Cg compiler
+02:33:51 PM.008: ---------------------------------
+02:33:51 PM.008: video settings reset:
+02:33:51 PM.008: 	base resolution:   1920x1080
+02:33:51 PM.008: 	output resolution: 1920x1080
+02:33:51 PM.008: 	downscale filter:  Lanczos
+02:33:51 PM.008: 	fps:               24000/1001
+02:33:51 PM.008: 	format:            NV12
+02:33:51 PM.008: 	YUV mode:          709/Partial
+02:33:51 PM.008: NV12 texture support not available
+02:33:51 PM.008: Audio monitoring device:
+02:33:51 PM.008: 	name: Default
+02:33:51 PM.008: 	id: default
+02:33:51 PM.008: ---------------------------------
+02:33:51 PM.011: Failed to load 'en-US' text for module: 'decklink-captions.so'
+02:33:51 PM.012: Failed to load 'en-US' text for module: 'decklink-ouput-ui.so'
+02:33:51 PM.073: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+02:33:51 PM.073: No blackmagic support
+02:33:51 PM.089: NVENC supported
+02:33:51 PM.089: FFMPEG VAAPI supported
+02:33:51 PM.108: os_dlopen(/usr//lib/obs-plugins/sndio.so->/usr//lib/obs-plugins/sndio.so): libsndio.so.7.1: cannot open shared object file: No such file or directory
+02:33:51 PM.108: 
+02:33:51 PM.108: Module '/usr//lib/obs-plugins/sndio.so' not loaded
+02:33:51 PM.109: ---------------------------------
+02:33:51 PM.109:   Loaded Modules:
+02:33:51 PM.109:     text-freetype2.so
+02:33:51 PM.109:     rtmp-services.so
+02:33:51 PM.109:     obs-x264.so
+02:33:51 PM.109:     obs-transitions.so
+02:33:51 PM.109:     obs-outputs.so
+02:33:51 PM.109:     obs-libfdk.so
+02:33:51 PM.109:     obs-filters.so
+02:33:51 PM.109:     obs-ffmpeg.so
+02:33:51 PM.109:     linux-v4l2.so
+02:33:51 PM.109:     linux-pulseaudio.so
+02:33:51 PM.109:     linux-jack.so
+02:33:51 PM.109:     linux-decklink.so
+02:33:51 PM.109:     linux-capture.so
+02:33:51 PM.109:     linux-alsa.so
+02:33:51 PM.109:     image-source.so
+02:33:51 PM.109:     frontend-tools.so
+02:33:51 PM.109:     decklink-ouput-ui.so
+02:33:51 PM.109:     decklink-captions.so
+02:33:51 PM.109: ---------------------------------
+02:33:51 PM.109: ==== Startup complete ===============================================
+02:33:51 PM.126: Switched to Preview/Program mode
+02:33:51 PM.126: ------------------------------------------------
+02:33:51 PM.140: All scene data cleared
+02:33:51 PM.140: ------------------------------------------------
+02:33:51 PM.147: pulse-input: Server name: 'PulseAudio (on PipeWire 0.3.32) 14.0.0'
+02:33:51 PM.147: pulse-input: An error occurred while getting the source info!
+02:33:51 PM.147: [Loaded global audio device]: 'Desktop Audio'
+02:33:51 PM.147: pulse-input: Server name: 'PulseAudio (on PipeWire 0.3.32) 14.0.0'
+02:33:51 PM.147: pulse-input: Audio format: s16le, 48000 Hz, 2 channels
+02:33:51 PM.147: pulse-input: Started recording from 'alsa_input.usb-Burr-Brown_from_TI_USB_Audio_CODEC-00.analog-mono'
+02:33:51 PM.147: [Loaded global audio device]: 'Mic/Aux'
+02:33:51 PM.147:     - filter: 'gate' (noise_gate_filter)
+02:33:51 PM.147:     - filter: 'Compressor' (compressor_filter)
+02:33:51 PM.147:     - filter: 'Noise Suppression' (noise_suppress_filter_v2)
+02:33:51 PM.147:     - filter: 'Limiter' (limiter_filter)
+02:33:51 PM.154: v4l2-input: Start capture from /dev/video0
+02:33:51 PM.154: v4l2-input: Unable to set input 0
+02:33:51 PM.154: v4l2-input: Initialization failed
+02:33:51 PM.154: xshm-input: Geometry 1920x1080 @ 760,0
+02:33:51 PM.154: Source ID 'linuxbrowser-source' not found
+02:33:51 PM.155: Failed to create source 'Linux Browser'!
+02:33:51 PM.229: Switched to scene 'top'
+02:33:51 PM.230: ------------------------------------------------
+02:33:51 PM.230: Loaded scenes:
+02:33:51 PM.230: - scene 'top':
+02:33:51 PM.230:     - source: 'topscreen' (xshm_input)
+02:33:51 PM.230:     - source: 'camera' (v4l2_input)
+02:33:51 PM.230:     - source: 'outline' (image_source)
+02:33:51 PM.230: - scene 'onlycam':
+02:33:51 PM.248:     - source: 'topscreen' (xshm_input)
+02:33:51 PM.248:     - source: 'camera' (v4l2_input)
+02:33:51 PM.248:     - source: 'outline' (image_source)
+02:33:51 PM.248: - scene 'terms-cam':
+02:33:51 PM.248:     - source: 'camera' (v4l2_input)
+02:33:51 PM.248:     - source: 'term1' (xcomposite_input)
+02:33:51 PM.248:     - source: 'term2' (xcomposite_input)
+02:33:51 PM.248:         - filter: 'greenout' (chroma_key_filter)
+02:33:51 PM.248:         - filter: 'Color Correction' (color_filter)
+02:33:51 PM.248:     - source: 'Linux Browser' (linuxbrowser-source)
+02:33:51 PM.248: ------------------------------------------------
+02:33:51 PM.691: adding 64 milliseconds of audio buffering, total audio buffering is now 64 milliseconds (source: Mic/Aux)
+02:33:51 PM.691: 
+02:34:06 PM.082: User switched to scene 'terms-cam'
+02:34:27 PM.021: User added scene 'new'
+02:34:27 PM.021: User switched to scene 'new'
+02:35:23 PM.041: [Media Source 'Media Source']: settings:
+02:35:23 PM.041: 	input:                   
+02:35:23 PM.041: 	input_format:            (null)
+02:35:23 PM.041: 	speed:                   100
+02:35:23 PM.041: 	is_looping:              no
+02:35:23 PM.041: 	is_linear_alpha:         no
+02:35:23 PM.041: 	is_hw_decoding:          no
+02:35:23 PM.041: 	is_clear_on_media_end:   yes
+02:35:23 PM.041: 	restart_on_activate:     yes
+02:35:23 PM.041: 	close_when_inactive:     no
+02:35:23 PM.043: User added source 'Media Source' (ffmpeg_source) to scene 'new'
+02:36:27 PM.182: User Removed source 'Media Source' (ffmpeg_source) from scene 'new'
+02:37:46 PM.097: User switched to scene 'terms-cam'
+02:37:52 PM.676: User switched to scene 'new'
+02:38:56 PM.737: ==== Shutting down ==================================================
+02:38:56 PM.739: X Error: BadWindow (invalid Window parameter), Major opcode: BadValue (integer parameter out of range for operation), Minor opcode: 0, Serial: 2721
+02:38:56 PM.739: X Error: BadWindow (invalid Window parameter), Major opcode: 142, Minor opcode: BadWindow (invalid Window parameter), Serial: 2722
+02:38:56 PM.740: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+02:38:56 PM.740: xcompcap: cleanup glXDestroyPixmap failed: GLXBadPixmap
+02:38:56 PM.740: xcompcap: cleanup glXDestroyPixmap failed: BadPixmap (invalid Pixmap parameter)
+02:38:56 PM.742: pulse-input: Stopped recording from 'alsa_input.usb-Burr-Brown_from_TI_USB_Audio_CODEC-00.analog-mono'
+02:38:56 PM.742: pulse-input: Got 57291 packets with 14666496 frames
+02:38:56 PM.742: All scene data cleared
+02:38:56 PM.742: ------------------------------------------------
+02:38:56 PM.745: X Error: GLXBadDrawable, Major opcode: 151, Minor opcode: 26, Serial: 194178
+02:38:56 PM.745: Failed to make context current.
+02:38:56 PM.745: X Error: GLXBadDrawable, Major opcode: 151, Minor opcode: 26, Serial: 194180
+02:38:56 PM.745: Failed to make context current.
+02:38:56 PM.746: X Error: GLXBadDrawable, Major opcode: 151, Minor opcode: 26, Serial: 194182
+02:38:56 PM.746: Failed to make context current.
+02:38:56 PM.746: X Error: GLXBadDrawable, Major opcode: 151, Minor opcode: 26, Serial: 194184
+02:38:56 PM.746: Failed to make context current.
+02:38:56 PM.824: [Scripting] Total detached callbacks: 0
+02:38:56 PM.838: Freeing OBS context data
+02:38:56 PM.844: == Profiler Results =============================
+02:38:56 PM.844: run_program_init: 511.078 ms
+02:38:56 PM.844:  ┣OBSApp::AppInit: 3.434 ms
+02:38:56 PM.844:  ┃ ┗OBSApp::InitLocale: 1.994 ms
+02:38:56 PM.844:  ┗OBSApp::OBSInit: 484.083 ms
+02:38:56 PM.844:    ┣obs_startup: 17.976 ms
+02:38:56 PM.844:    ┗OBSBasic::OBSInit: 438.865 ms
+02:38:56 PM.844:      ┣OBSBasic::InitBasicConfig: 0.055 ms
+02:38:56 PM.844:      ┣OBSBasic::ResetAudio: 0.073 ms
+02:38:56 PM.844:      ┣OBSBasic::ResetVideo: 161.57 ms
+02:38:56 PM.844:      ┣OBSBasic::InitOBSCallbacks: 0.002 ms
+02:38:56 PM.844:      ┣OBSBasic::InitHotkeys: 0.025 ms
+02:38:56 PM.844:      ┣obs_load_all_modules: 100.921 ms
+02:38:56 PM.844:      ┃ ┣obs_init_module(decklink-captions.so): 0.016 ms
+02:38:56 PM.844:      ┃ ┣obs_init_module(decklink-ouput-ui.so): 0.286 ms
+02:38:56 PM.844:      ┃ ┣obs_init_module(frontend-tools.so): 51.207 ms
+02:38:56 PM.844:      ┃ ┣obs_init_module(image-source.so): 0.004 ms
+02:38:56 PM.844:      ┃ ┣obs_init_module(linux-alsa.so): 0.001 ms
+02:38:56 PM.844:      ┃ ┣obs_init_module(linux-capture.so): 0.148 ms
+02:38:56 PM.844:      ┃ ┣obs_init_module(linux-decklink.so): 0.065 ms
+02:38:56 PM.844:      ┃ ┣obs_init_module(linux-jack.so): 0.001 ms
+02:38:56 PM.844:      ┃ ┣obs_init_module(linux-pulseaudio.so): 0.001 ms
+02:38:56 PM.844:      ┃ ┣obs_init_module(linux-v4l2.so): 3.99 ms
+02:38:56 PM.844:      ┃ ┣obs_init_module(obs-ffmpeg.so): 5.487 ms
+02:38:56 PM.844:      ┃ ┃ ┗nvenc_check: 5.445 ms
+02:38:56 PM.844:      ┃ ┣obs_init_module(obs-filters.so): 0.015 ms
+02:38:56 PM.844:      ┃ ┣obs_init_module(obs-libfdk.so): 0.001 ms
+02:38:56 PM.844:      ┃ ┣obs_init_module(obs-outputs.so): 0.002 ms
+02:38:56 PM.844:      ┃ ┣obs_init_module(obs-transitions.so): 0.004 ms
+02:38:56 PM.844:      ┃ ┣obs_init_module(obs-x264.so): 0 ms
+02:38:56 PM.844:      ┃ ┣obs_init_module(rtmp-services.so): 8.005 ms
+02:38:56 PM.844:      ┃ ┗obs_init_module(text-freetype2.so): 0.012 ms
+02:38:56 PM.844:      ┣OBSBasic::ResetOutputs: 0.13 ms
+02:38:56 PM.844:      ┣OBSBasic::CreateHotkeys: 0.021 ms
+02:38:56 PM.844:      ┣OBSBasic::InitService: 15.672 ms
+02:38:56 PM.844:      ┣OBSBasic::InitPrimitives: 0.152 ms
+02:38:56 PM.844:      ┗OBSBasic::Load: 124.008 ms
+02:38:56 PM.844: obs_hotkey_thread(25 ms): min=0.034 ms, median=0.07 ms, max=57.147 ms, 99th percentile=0.713 ms, 99.9918% below 25 ms
+02:38:56 PM.844: audio_thread(Audio): min=0 ms, median=0.022 ms, max=1.037 ms, 99th percentile=0.044 ms
+02:38:56 PM.844: obs_graphics_thread(41.7083 ms): min=0.247 ms, median=2.464 ms, max=73.056 ms, 99th percentile=3.444 ms, 99.9864% below 41.708 ms
+02:38:56 PM.844:  ┣tick_sources: min=0.001 ms, median=1.351 ms, max=53.72 ms, 99th percentile=2.059 ms
+02:38:56 PM.844:  ┣output_frame: min=0.088 ms, median=0.149 ms, max=19.165 ms, 99th percentile=0.36 ms
+02:38:56 PM.844:  ┃ ┗gs_context(video->graphics): min=0.088 ms, median=0.149 ms, max=19.165 ms, 99th percentile=0.36 ms
+02:38:56 PM.844:  ┃   ┣render_video: min=0.038 ms, median=0.101 ms, max=18.639 ms, 99th percentile=0.146 ms
+02:38:56 PM.844:  ┃   ┃ ┗render_main_texture: min=0.031 ms, median=0.095 ms, max=18.624 ms, 99th percentile=0.136 ms
+02:38:56 PM.844:  ┃   ┗gs_flush: min=0.003 ms, median=0.005 ms, max=0.627 ms, 99th percentile=0.03 ms
+02:38:56 PM.844:  ┗render_displays: min=0.03 ms, median=0.835 ms, max=25.853 ms, 99th percentile=1.557 ms
+02:38:56 PM.844: =================================================
+02:38:56 PM.844: == Profiler Time Between Calls ==================
+02:38:56 PM.844: obs_hotkey_thread(25 ms): min=25.063 ms, median=25.127 ms, max=82.21 ms, 98.2739% within ±2% of 25 ms (0% lower, 1.72612% higher)
+02:38:56 PM.844: obs_graphics_thread(41.7083 ms): min=10.362 ms, median=41.708 ms, max=73.058 ms, 99.9454% within ±2% of 41.708 ms (0.0272814% lower, 0.0272814% higher)
+02:38:56 PM.844: =================================================
+02:38:56 PM.850: Number of memory leaks: 0

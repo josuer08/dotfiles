@@ -77,3 +77,68 @@ Traceback (most recent call last):
     for f in os.listdir(d):
 FileNotFoundError: [Errno 2] No such file or directory: '/home/josuer08/.config/bpytop/themes'
 01/03/21 (16:05:23) | INFO: Loglevel set to INFO
+18/03/21 (13:47:45) | ERROR: [Errno 2] No such file or directory: '/home/josuer08/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1327, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/josuer08/.config/bpytop/themes'
+13/04/21 (01:03:14) | ERROR: [Errno 2] No such file or directory: '/home/josuer08/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1327, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/josuer08/.config/bpytop/themes'
+19/04/21 (12:16:46) | ERROR: [Errno 2] No such file or directory: '/home/josuer08/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1327, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/josuer08/.config/bpytop/themes'
+19/04/21 (13:56:28) | ERROR: [Errno 2] No such file or directory: '/home/josuer08/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1327, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/josuer08/.config/bpytop/themes'
+14/05/21 (18:19:11) | ERROR: [Errno 2] No such file or directory: '/home/josuer08/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1335, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/josuer08/.config/bpytop/themes'
+18/05/21 (16:43:59) | ERROR: [Errno 2] No such file or directory: '/home/josuer08/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1335, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/josuer08/.config/bpytop/themes'
+27/05/21 (14:24:55) | ERROR: [Errno 2] No such file or directory: '/home/josuer08/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1335, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/josuer08/.config/bpytop/themes'
+01/06/21 (21:25:12) | ERROR: [Errno 2] No such file or directory: '/home/josuer08/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1335, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/josuer08/.config/bpytop/themes'
+01/06/21 (22:31:39) | ERROR: [Errno 2] No such file or directory: '/home/josuer08/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1335, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/josuer08/.config/bpytop/themes'
+12/07/21 (18:16:51) | ERROR: [Errno 2] No such file or directory: '/home/josuer08/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/josuer08/.config/bpytop/themes'
+27/08/21 (22:30:11) | ERROR: [Errno 2] No such file or directory: '/home/josuer08/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/josuer08/.config/bpytop/themes'
+30/08/21 (15:19:26) | ERROR: [Errno 2] No such file or directory: '/home/josuer08/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/josuer08/.config/bpytop/themes'
+30/08/21 (15:55:47) | ERROR: [Errno 2] No such file or directory: '/home/josuer08/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/josuer08/.config/bpytop/themes'

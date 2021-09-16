@@ -4,7 +4,7 @@
 (dynamics "Dynamics Off")
 (gradient "FG to BG (RGB)")
 (palette "Standard")
-(brush-size 66)
+(brush-size 49)
 (brush-angle -0.30000000000000004)
 (brush-spacing 0.049000000000000002)
 (brush-hardness 0.35999999999999999)

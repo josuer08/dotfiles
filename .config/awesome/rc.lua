@@ -555,7 +555,7 @@ globalkeys = my_table.join(
     -- Prompt
     awful.key({ modkey }, "r", function () awful.screen.focused().mypromptbox:run() end,
               {description = "run prompt", group = "launcher"})
-    --[[   
+    --[[
     awful.key({ modkey }, "x",
               function ()
                   awful.prompt.run {
@@ -789,3 +789,5 @@ client.connect_signal("unfocus", function(c) c.border_color = beautiful.border_n
 --awful.spawn.with_shell("/home/josuer08/.local/bin/beautify")
 awful.spawn.with_shell("feh --randomize --bg-fill /home/josuer08/Pictures/backgrounds/*")
 awful.spawn.with_shell("compton")
+awful.spawn.with_shell("eval `ssh-agent`")
+awful.spawn.with_shell("sudo ethtool -s enp8s0 wol g")

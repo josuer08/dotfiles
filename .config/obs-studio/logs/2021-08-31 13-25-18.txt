@@ -1,0 +1,111 @@
+01:25:18 PM.716: CPU Name: AMD Ryzen 5 3600 6-Core Processor
+01:25:18 PM.716: CPU Speed: 2800.000MHz
+01:25:18 PM.716: Physical Cores: 6, Logical Cores: 12
+01:25:18 PM.716: Physical Memory: 32034MB Total, 726MB Free
+01:25:18 PM.716: Kernel Version: Linux 5.13.10-arch1-1
+01:25:18 PM.716: Distribution: "Arch Linux" Unknown
+01:25:18 PM.716: Session Type: x11
+01:25:18 PM.716: Window System: X11.0, Vendor: The X.Org Foundation, Version: 1.20.13
+01:25:18 PM.717: Portable mode: false
+01:25:18 PM.744: OBS 27.0.1-2 (linux)
+01:25:18 PM.744: ---------------------------------
+01:25:18 PM.744: ---------------------------------
+01:25:18 PM.744: audio settings reset:
+01:25:18 PM.744: 	samples per sec: 48000
+01:25:18 PM.744: 	speakers:        2
+01:25:18 PM.747: ---------------------------------
+01:25:18 PM.747: Initializing OpenGL...
+01:25:18 PM.801: Loading up OpenGL on adapter NVIDIA Corporation NVIDIA GeForce GTX 1660 SUPER/PCIe/SSE2
+01:25:18 PM.801: OpenGL loaded successfully, version 3.3.0 NVIDIA 470.63.01, shading language 3.30 NVIDIA via Cg compiler
+01:25:18 PM.808: ---------------------------------
+01:25:18 PM.808: video settings reset:
+01:25:18 PM.808: 	base resolution:   1920x1080
+01:25:18 PM.808: 	output resolution: 1920x1080
+01:25:18 PM.808: 	downscale filter:  Lanczos
+01:25:18 PM.808: 	fps:               24000/1001
+01:25:18 PM.808: 	format:            NV12
+01:25:18 PM.808: 	YUV mode:          709/Partial
+01:25:18 PM.808: NV12 texture support not available
+01:25:18 PM.808: Audio monitoring device:
+01:25:18 PM.808: 	name: Default
+01:25:18 PM.808: 	id: default
+01:25:18 PM.808: ---------------------------------
+01:25:18 PM.810: Failed to load 'en-US' text for module: 'decklink-captions.so'
+01:25:18 PM.811: Failed to load 'en-US' text for module: 'decklink-ouput-ui.so'
+01:25:18 PM.889: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+01:25:18 PM.889: No blackmagic support
+01:25:18 PM.898: v4l2loopback not installed, virtual camera disabled
+01:25:18 PM.919: NVENC supported
+01:25:18 PM.919: FFMPEG VAAPI supported
+01:25:18 PM.938: os_dlopen(/usr//lib/obs-plugins/sndio.so->/usr//lib/obs-plugins/sndio.so): libsndio.so.7.1: cannot open shared object file: No such file or directory
+01:25:18 PM.938: 
+01:25:18 PM.938: Module '/usr//lib/obs-plugins/sndio.so' not loaded
+01:25:18 PM.938: ---------------------------------
+01:25:18 PM.938:   Loaded Modules:
+01:25:18 PM.938:     text-freetype2.so
+01:25:18 PM.938:     rtmp-services.so
+01:25:18 PM.938:     obs-x264.so
+01:25:18 PM.938:     obs-transitions.so
+01:25:18 PM.938:     obs-outputs.so
+01:25:18 PM.938:     obs-libfdk.so
+01:25:18 PM.938:     obs-filters.so
+01:25:18 PM.938:     obs-ffmpeg.so
+01:25:18 PM.938:     linux-v4l2.so
+01:25:18 PM.938:     linux-pulseaudio.so
+01:25:18 PM.938:     linux-jack.so
+01:25:18 PM.938:     linux-decklink.so
+01:25:18 PM.938:     linux-capture.so
+01:25:18 PM.939:     linux-alsa.so
+01:25:18 PM.939:     libobs-linuxbrowser.so
+01:25:18 PM.939:     image-source.so
+01:25:18 PM.939:     frontend-tools.so
+01:25:18 PM.939:     decklink-ouput-ui.so
+01:25:18 PM.939:     decklink-captions.so
+01:25:18 PM.939: ---------------------------------
+01:25:18 PM.939: ==== Startup complete ===============================================
+01:25:18 PM.953: Switched to Preview/Program mode
+01:25:18 PM.953: ------------------------------------------------
+01:25:18 PM.955: All scene data cleared
+01:25:18 PM.955: ------------------------------------------------
+01:25:18 PM.959: pulse-input: Server name: 'PulseAudio (on PipeWire 0.3.33) 15.0.0'
+01:25:18 PM.959: pulse-input: An error occurred while getting the source info!
+01:25:18 PM.959: [Loaded global audio device]: 'Desktop Audio'
+01:25:18 PM.960: pulse-input: Server name: 'PulseAudio (on PipeWire 0.3.33) 15.0.0'
+01:25:18 PM.960: pulse-input: Audio format: s16le, 48000 Hz, 2 channels
+01:25:18 PM.960: pulse-input: Started recording from 'alsa_input.usb-Burr-Brown_from_TI_USB_Audio_CODEC-00.analog-mono'
+01:25:18 PM.960: [Loaded global audio device]: 'Mic/Aux'
+01:25:18 PM.960:     - filter: 'gate' (noise_gate_filter)
+01:25:18 PM.960:     - filter: 'Compressor' (compressor_filter)
+01:25:18 PM.960:     - filter: 'Noise Suppression' (noise_suppress_filter_v2)
+01:25:18 PM.960:     - filter: 'Limiter' (limiter_filter)
+01:25:18 PM.964: v4l2-input: Start capture from /dev/video0
+01:25:18 PM.964: v4l2-input: Input: 0
+01:25:18 PM.967: v4l2-input: Resolution: 1280x720
+01:25:18 PM.967: v4l2-input: Pixelformat: YU12
+01:25:18 PM.967: v4l2-input: Linesize: 1280 Bytes
+01:25:18 PM.970: v4l2-input: Framerate: 30.00 fps
+01:25:18 PM.971: v4l2-input: /dev/video0: select timeout set to 166666us (5x frame periods)
+01:25:18 PM.972: xshm-input: Geometry 3440x1440 @ 0,1080
+01:25:19 PM.049: Switched to scene 'top'
+01:25:19 PM.050: ------------------------------------------------
+01:25:19 PM.050: Loaded scenes:
+01:25:19 PM.050: - scene 'top':
+01:25:19 PM.050:     - source: 'topscreen' (xshm_input)
+01:25:19 PM.050:     - source: 'camera' (v4l2_input)
+01:25:19 PM.050:     - source: 'outline' (image_source)
+01:25:19 PM.050: - scene 'onlycam':
+01:25:19 PM.084:     - source: 'topscreen' (xshm_input)
+01:25:19 PM.084:     - source: 'camera' (v4l2_input)
+01:25:19 PM.084:     - source: 'outline' (image_source)
+01:25:19 PM.084: - scene 'terms-cam':
+01:25:19 PM.084:     - source: 'camera' (v4l2_input)
+01:25:19 PM.084:     - source: 'term1' (xcomposite_input)
+01:25:19 PM.084:     - source: 'term2' (xcomposite_input)
+01:25:19 PM.084:         - filter: 'greenout' (chroma_key_filter)
+01:25:19 PM.084:         - filter: 'Color Correction' (color_filter)
+01:25:19 PM.084:     - source: 'Linux Browser' (linuxbrowser-source)
+01:25:19 PM.084: - scene 'new':
+01:25:19 PM.084:     - source: 'browser' (linuxbrowser-source)
+01:25:19 PM.084: ------------------------------------------------
+01:25:19 PM.547: adding 64 milliseconds of audio buffering, total audio buffering is now 64 milliseconds (source: Mic/Aux)
+01:25:19 PM.547: 

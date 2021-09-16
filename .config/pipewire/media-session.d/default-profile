@@ -1,0 +1,4 @@
+{
+  "default.profile.alsa_card.usb-Burr-Brown_from_TI_USB_Audio_CODEC-00": { "name": "output:analog-stereo-output+input:analog-mono" },
+  "default.profile.alsa_card.usb-JBL_Quantum_400_0080CM-0018812CK-00": { "name": "output:analog-stereo" }
+}

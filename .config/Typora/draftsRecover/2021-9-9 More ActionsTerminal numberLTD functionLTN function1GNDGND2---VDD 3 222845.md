@@ -1,0 +1,43 @@
+| Terminal number | LTD function  | LTN function       |
+| --------------- | ------------- | ------------------ |
+| 1               | GND           | GND                |
+| 2               | ---           | VDD 3.3            |
+| 3               | VDD 3.3       | VDD 3.3            |
+| 4               | VDD 3.3       | VEEDID 3.3         |
+| 5               | VDD 3.3       | BIST (bist enable) |
+| 6               | VEDID 3.3     | CLK EDID           |
+| 7               | ---           | DATAEDID           |
+| 8               | CLK EDID      | RXIN0-             |
+| 9               | DATA EDID     | RXIN0+             |
+| 10              | GND           | GND                |
+| 11              | GND           | RXIN1-             |
+| 12              | ---           | RXIN1+             |
+| 13              | RxIN0-        | GND                |
+| 14              | RxIN0+        | RXIN2-             |
+| 15              | GND           | RXIN2+             |
+| 16              | RxIN1-        | GND                |
+| 17              | RxIN1+        | CLK-               |
+| 18              | GND           | CLK+               |
+| 19              | RxIN2-        | GND                |
+| 20              | RxIN2+        | ---                |
+| 21              | GND           | ---                |
+| 22              | CLK-          | ---                |
+| 23              | CLK+          |                    |
+| 24              | GND           |                    |
+| 25              | PWM           |                    |
+| 26              | VBL-          |                    |
+| 27              | VBL-          |                    |
+| 28              | VBL-          |                    |
+| 29              | VBL-          |                    |
+| 30              | VBL-          |                    |
+| 31              | GND           |                    |
+| 32              | VBL+ 7.5V 21V |                    |
+| 33              | VBL+          |                    |
+| 34              | VBL+          |                    |
+| 35              | VBL+          |                    |
+| 36              | VBL+          |                    |
+| 37              | ---           |                    |
+| 38              | SMB_CLK       |                    |
+| 39              | SMB_DAT       |                    |
+| 40              | GND           |                    |
+

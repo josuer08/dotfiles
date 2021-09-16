@@ -1,0 +1,1113 @@
+INFO 4/13/2021, 6:26:26 PM  luanchFromDiffVersion, pre version is undefined
+INFO 4/13/2021, 6:26:26 PM  overwriteThemeFolder
+INFO 4/13/2021, 6:26:26 PM  ------------------start------------------
+INFO 4/13/2021, 6:26:26 PM  typora version: 0.9.98
+DEBUG 4/13/2021, 6:26:26 PM  [ '/usr/share/typora/Typora', 'README.md' ]
+DEBUG 4/13/2021, 6:26:26 PM  app.openFile
+INFO 4/13/2021, 6:26:26 PM  addRecentDocument
+INFO 4/13/2021, 6:26:26 PM  [Raven] instanceKey = 9a5348c7-ddfe-4614-820a-37cfa33584e8
+INFO 4/13/2021, 6:26:26 PM  [focus] 1
+INFO 4/13/2021, 6:26:26 PM  [Raven] userId = 0ce22006-c1ef-45d6-a34a-02c9c3407100
+INFO 4/13/2021, 6:26:27 PM  handle document.loadInitData
+INFO 4/13/2021, 6:26:51 PM  [blur] 1
+INFO 4/13/2021, 6:26:52 PM  ----------------before-quit-----------------
+INFO 4/13/2021, 6:26:52 PM  ----------------before-quit-----------------
+INFO 4/13/2021, 6:26:52 PM  ------------------will-quit------------------
+INFO 7/24/2021, 4:50:15 PM  luanchFromDiffVersion, pre version is 0.9.98
+INFO 7/24/2021, 4:50:15 PM  overwriteThemeFolder
+INFO 7/24/2021, 4:50:15 PM  ------------------start------------------
+INFO 7/24/2021, 4:50:15 PM  typora version: 0.10.11
+INFO 7/24/2021, 4:50:15 PM  [Raven] instanceKey = 08e37fb3-62e8-4f98-a24d-dc9cbbcc629b
+INFO 7/24/2021, 4:50:16 PM  added recovery 1 null undefined (0)
+INFO 7/24/2021, 4:50:16 PM  [Raven] userId = 0ce22006-c1ef-45d6-a34a-02c9c3407100
+INFO 7/24/2021, 4:50:16 PM  [focus] 1
+INFO 7/24/2021, 4:50:16 PM  synced recovery
+INFO 7/24/2021, 4:50:16 PM  handle document.loadInitData
+INFO 7/24/2021, 4:50:16 PM  added recovery 1 undefined undefined (0)
+INFO 7/24/2021, 4:50:16 PM  synced recovery
+INFO 7/24/2021, 4:50:21 PM  added recovery 1 undefined H (1)
+INFO 7/24/2021, 4:50:21 PM  synced recovery
+INFO 7/24/2021, 4:50:26 PM  added recovery 1 undefined Hola, (5)
+INFO 7/24/2021, 4:50:26 PM  synced recovery
+INFO 7/24/2021, 4:50:29 PM  added recovery 1 undefined Hola, muy buenos dias a t (25)
+INFO 7/24/2021, 4:50:29 PM  synced recovery
+INFO 7/24/2021, 4:50:30 PM  added recovery 1 undefined Hola, muy buenos dias a tocx (28)
+INFO 7/24/2021, 4:50:30 PM  synced recovery
+INFO 7/24/2021, 4:50:32 PM  added recovery 1 undefined Hola, muy buenos dias a tod (27)
+INFO 7/24/2021, 4:50:32 PM  synced recovery
+INFO 7/24/2021, 4:50:35 PM  added recovery 1 undefined Hola, muy buenos dias a todos, el dia de ho (43)
+INFO 7/24/2021, 4:50:35 PM  synced recovery
+INFO 7/24/2021, 4:50:38 PM  added recovery 1 undefined "Hola, muy bueno...amos a empezar " (61)
+INFO 7/24/2021, 4:50:38 PM  synced recovery
+INFO 7/24/2021, 4:50:39 PM  added recovery 1 undefined "Hola, muy bueno...vamos a empezar" (60)
+INFO 7/24/2021, 4:50:39 PM  synced recovery
+INFO 7/24/2021, 4:50:42 PM  added recovery 1 undefined Hola, muy buenos dias a todos, e (32)
+INFO 7/24/2021, 4:50:42 PM  synced recovery
+INFO 7/24/2021, 4:50:45 PM  added recovery 1 undefined Hola, muy buenos di (19)
+INFO 7/24/2021, 4:50:45 PM  synced recovery
+INFO 7/24/2021, 4:50:47 PM  added recovery 1 undefined Hola, muy buena (15)
+INFO 7/24/2021, 4:50:47 PM  synced recovery
+INFO 7/24/2021, 4:50:50 PM  added recovery 1 undefined Hola, muy buenas noches a todos (31)
+INFO 7/24/2021, 4:50:50 PM  synced recovery
+INFO 7/24/2021, 4:50:53 PM  added recovery 1 undefined Hola, muy buenas noches a todos
+
+ (33)
+INFO 7/24/2021, 4:50:53 PM  synced recovery
+INFO 7/24/2021, 4:50:55 PM  added recovery 1 undefined Hola, muy buenas noches a todos (31)
+INFO 7/24/2021, 4:50:55 PM  synced recovery
+INFO 7/24/2021, 4:50:57 PM  added recovery 1 undefined Hola, muy buenas noches a todos, (32)
+INFO 7/24/2021, 4:50:57 PM  synced recovery
+INFO 7/24/2021, 4:51:00 PM  added recovery 1 undefined Hola, muy buenas noches a todos, bienvenidos a (46)
+INFO 7/24/2021, 4:51:00 PM  synced recovery
+INFO 7/24/2021, 4:51:01 PM  added recovery 1 undefined Hola, muy buenas noches a todos, bienvenidos u (46)
+INFO 7/24/2021, 4:51:01 PM  synced recovery
+INFO 7/24/2021, 4:51:04 PM  added recovery 1 undefined "Hola, muy buena...a vez mas a sui" (62)
+INFO 7/24/2021, 4:51:04 PM  synced recovery
+INFO 7/24/2021, 4:51:05 PM  added recovery 1 undefined "Hola, muy buena...a vez mas a sui" (62)
+INFO 7/24/2021, 4:51:05 PM  synced recovery
+INFO 7/24/2021, 4:51:05 PM  added recovery 1 undefined "Hola, muy buena...a vez mas a su " (62)
+INFO 7/24/2021, 4:51:05 PM  synced recovery
+INFO 7/24/2021, 4:51:08 PM  added recovery 1 undefined "Hola, muy buena... podcast de cry" (76)
+INFO 7/24/2021, 4:51:08 PM  synced recovery
+INFO 7/24/2021, 4:51:13 PM  added recovery 1 undefined "Hola, muy buena...rypto favorito," (89)
+INFO 7/24/2021, 4:51:13 PM  synced recovery
+INFO 7/24/2021, 4:51:21 PM  added recovery 1 undefined "Hola, muy buena...pto favorito, o" (91)
+INFO 7/24/2021, 4:51:21 PM  synced recovery
+INFO 7/24/2021, 4:51:24 PM  added recovery 1 undefined "Hola, muy buena...a madrugada mas" (108)
+INFO 7/24/2021, 4:51:24 PM  synced recovery
+INFO 7/24/2021, 4:51:26 PM  added recovery 1 undefined "Hola, muy buena...ada mas con ust" (116)
+INFO 7/24/2021, 4:51:26 PM  synced recovery
+INFO 7/24/2021, 4:51:27 PM  added recovery 1 undefined "Hola, muy buena...da mas con uste" (117)
+INFO 7/24/2021, 4:51:27 PM  synced recovery
+INFO 7/24/2021, 4:51:30 PM  added recovery 1 undefined "Hola, muy buena...s con ustedes y" (122)
+INFO 7/24/2021, 4:51:30 PM  synced recovery
+INFO 7/24/2021, 4:51:33 PM  added recovery 1 undefined "Hola, muy buena... y en continuac" (135)
+INFO 7/24/2021, 4:51:33 PM  synced recovery
+INFO 7/24/2021, 4:51:37 PM  added recovery 1 undefined "Hola, muy buena...continuacion de" (141)
+INFO 7/24/2021, 4:51:37 PM  synced recovery
+INFO 7/24/2021, 4:51:38 PM  added recovery 1 undefined "Hola, muy buena...ontinuacion del" (142)
+INFO 7/24/2021, 4:51:38 PM  synced recovery
+INFO 7/24/2021, 4:51:38 PM  added recovery 1 undefined "Hola, muy buena...ontinuacion del" (142)
+INFO 7/24/2021, 4:51:38 PM  synced recovery
+INFO 7/24/2021, 4:51:39 PM  added recovery 1 undefined "Hola, muy buena...ontinuacion de " (142)
+INFO 7/24/2021, 4:51:39 PM  synced recovery
+INFO 7/24/2021, 4:51:42 PM  added recovery 1 undefined "Hola, muy buena...n de la convers" (152)
+INFO 7/24/2021, 4:51:42 PM  synced recovery
+INFO 7/24/2021, 4:51:45 PM  added recovery 1 undefined "Hola, muy buena... conversacion B" (159)
+INFO 7/24/2021, 4:51:45 PM  synced recovery
+INFO 7/24/2021, 4:51:48 PM  added recovery 1 undefined "Hola, muy buena...to basics con n" (178)
+INFO 7/24/2021, 4:51:48 PM  synced recovery
+INFO 7/24/2021, 4:51:52 PM  added recovery 1 undefined "Hola, muy buena...o amigo cape cr" (198)
+INFO 7/24/2021, 4:51:52 PM  synced recovery
+INFO 7/24/2021, 4:51:56 PM  added recovery 1 undefined "Hola, muy buena...cape crypto y z" (206)
+INFO 7/24/2021, 4:51:56 PM  synced recovery
+INFO 7/24/2021, 4:51:59 PM  added recovery 1 undefined "Hola, muy buena... crypto y zaid." (210)
+INFO 7/24/2021, 4:51:59 PM  synced recovery
+INFO 7/24/2021, 4:51:59 PM  added recovery 1 undefined "Hola, muy buena...crypto y zaid.
+" (211)
+INFO 7/24/2021, 4:52:00 PM  synced recovery
+INFO 7/24/2021, 4:52:01 PM  added recovery 1 undefined "Hola, muy buena...rypto y zaid.
+h" (212)
+INFO 7/24/2021, 4:52:01 PM  synced recovery
+INFO 7/24/2021, 4:52:04 PM  added recovery 1 undefined "Hola, muy buena... lamentablement" (229)
+INFO 7/24/2021, 4:52:04 PM  synced recovery
+INFO 7/24/2021, 4:52:05 PM  added recovery 1 undefined "Hola, muy buena...lamentablemente" (230)
+INFO 7/24/2021, 4:52:05 PM  synced recovery
+INFO 7/24/2021, 4:52:06 PM  added recovery 1 undefined "Hola, muy buena...blemente no [p]" (237)
+INFO 7/24/2021, 4:52:06 PM  synced recovery
+INFO 7/24/2021, 4:52:07 PM  added recovery 1 undefined "Hola, muy buena...blemente no [p]" (237)
+INFO 7/24/2021, 4:52:07 PM  synced recovery
+INFO 7/24/2021, 4:52:08 PM  added recovery 1 undefined "Hola, muy buena...tablemente no p" (235)
+INFO 7/24/2021, 4:52:08 PM  synced recovery
+INFO 7/24/2021, 4:52:11 PM  added recovery 1 undefined "Hola, muy buena...re acompanarles" (252)
+INFO 7/24/2021, 4:52:11 PM  synced recovery
+INFO 7/24/2021, 4:52:14 PM  added recovery 1 undefined "Hola, muy buena...o les dejo con " (271)
+INFO 7/24/2021, 4:52:14 PM  synced recovery
+INFO 7/24/2021, 4:52:17 PM  added recovery 1 undefined "Hola, muy buena... continuacion d" (288)
+INFO 7/24/2021, 4:52:17 PM  synced recovery
+INFO 7/24/2021, 4:52:20 PM  added recovery 1 undefined "Hola, muy buena...sta conversacio" (306)
+INFO 7/24/2021, 4:52:20 PM  synced recovery
+INFO 7/24/2021, 4:52:24 PM  added recovery 1 undefined "Hola, muy buena... la mano de est" (325)
+INFO 7/24/2021, 4:52:24 PM  synced recovery
+INFO 7/24/2021, 4:52:32 PM  added recovery 1 undefined "Hola, muy buena...a mano de estos" (327)
+INFO 7/24/2021, 4:52:32 PM  synced recovery
+INFO 7/24/2021, 4:52:34 PM  added recovery 1 undefined "Hola, muy buena...de la mano de e" (323)
+INFO 7/24/2021, 4:52:34 PM  synced recovery
+INFO 7/24/2021, 4:52:37 PM  added recovery 1 undefined "Hola, muy buena...los dos, espero" (339)
+INFO 7/24/2021, 4:52:37 PM  synced recovery
+INFO 7/24/2021, 4:52:40 PM  added recovery 1 undefined "Hola, muy buena...ue lo disfruten" (356)
+INFO 7/24/2021, 4:52:40 PM  synced recovery
+INFO 7/24/2021, 4:52:49 PM  added recovery 1 undefined "Hola, muy buena...e lo disfruten." (357)
+INFO 7/24/2021, 4:52:49 PM  synced recovery
+INFO 7/24/2021, 4:52:50 PM  [blur] 1
+INFO 7/24/2021, 4:52:50 PM  [win] blur
+INFO 7/24/2021, 4:52:58 PM  [focus] 1
+INFO 7/24/2021, 4:53:01 PM  added recovery 1 undefined "Hola, muy buena...e lo disfruten." (365)
+INFO 7/24/2021, 4:53:01 PM  synced recovery
+INFO 7/24/2021, 4:53:01 PM  added recovery 1 undefined "Hola, muy buena...e lo disfruten." (364)
+INFO 7/24/2021, 4:53:01 PM  synced recovery
+INFO 7/24/2021, 4:53:02 PM  added recovery 1 undefined "Hola, muy buena...e lo disfruten." (363)
+INFO 7/24/2021, 4:53:02 PM  synced recovery
+INFO 7/24/2021, 4:53:02 PM  added recovery 1 undefined "Hola, muy buena...e lo disfruten." (362)
+INFO 7/24/2021, 4:53:02 PM  synced recovery
+INFO 7/24/2021, 4:53:06 PM  added recovery 1 undefined "###### Hola, mu...e lo disfruten." (369)
+INFO 7/24/2021, 4:53:06 PM  synced recovery
+INFO 7/24/2021, 4:53:06 PM  added recovery 1 undefined "##### Hola, muy...e lo disfruten." (368)
+INFO 7/24/2021, 4:53:06 PM  synced recovery
+INFO 7/24/2021, 4:53:06 PM  added recovery 1 undefined "#### Hola, muy ...e lo disfruten." (367)
+INFO 7/24/2021, 4:53:06 PM  synced recovery
+INFO 7/24/2021, 4:53:07 PM  added recovery 1 undefined "### Hola, muy b...e lo disfruten." (366)
+INFO 7/24/2021, 4:53:07 PM  synced recovery
+INFO 7/24/2021, 4:53:07 PM  added recovery 1 undefined "## Hola, muy bu...e lo disfruten." (365)
+INFO 7/24/2021, 4:53:07 PM  synced recovery
+INFO 7/24/2021, 4:53:07 PM  added recovery 1 undefined "# Hola, muy bue...e lo disfruten." (364)
+INFO 7/24/2021, 4:53:07 PM  synced recovery
+INFO 7/24/2021, 4:53:11 PM  added recovery 1 undefined "# Hola, muy bue...e lo disfruten." (363)
+INFO 7/24/2021, 4:53:11 PM  synced recovery
+INFO 7/24/2021, 4:53:11 PM  added recovery 1 undefined "# Hola, muy bue...e lo disfruten." (362)
+INFO 7/24/2021, 4:53:11 PM  synced recovery
+INFO 7/24/2021, 4:53:18 PM  [blur] 1
+INFO 7/24/2021, 4:53:18 PM  [win] blur
+INFO 7/24/2021, 4:55:49 PM  [focus] 1
+INFO 7/24/2021, 4:55:52 PM  [blur] 1
+INFO 7/24/2021, 4:55:52 PM  [win] blur
+INFO 7/24/2021, 4:56:04 PM  [focus] 1
+INFO 7/24/2021, 4:56:08 PM  [blur] 1
+INFO 7/24/2021, 4:56:08 PM  [win] blur
+INFO 7/24/2021, 4:56:13 PM  [focus] 1
+INFO 7/24/2021, 4:56:14 PM  [blur] 1
+INFO 7/24/2021, 4:56:14 PM  [win] blur
+INFO 7/24/2021, 5:26:31 PM  [focus] 1
+INFO 7/24/2021, 5:26:36 PM  synced recovery
+INFO 7/24/2021, 5:26:36 PM  ----------------before-quit-----------------
+INFO 7/24/2021, 5:26:36 PM  ------------------will-quit------------------
+INFO 7/24/2021, 5:26:36 PM  -----------------quit------------------
+INFO 7/24/2021, 5:26:36 PM  closeLogging
+INFO 9/9/2021, 10:15:15 PM  luanchFromDiffVersion, pre version is 0.10.11
+INFO 9/9/2021, 10:15:15 PM  overwriteThemeFolder
+INFO 9/9/2021, 10:15:15 PM  ------------------start------------------
+INFO 9/9/2021, 10:15:15 PM  typora version: 0.11.2
+INFO 9/9/2021, 10:15:15 PM  [Raven] instanceKey = 6708b22e-698b-443f-b8e6-67bc83494c69
+INFO 9/9/2021, 10:15:15 PM  added recovery 1 null undefined (0)
+INFO 9/9/2021, 10:15:15 PM  [focus] 1
+INFO 9/9/2021, 10:15:15 PM  [Raven] userId = 0ce22006-c1ef-45d6-a34a-02c9c3407100
+INFO 9/9/2021, 10:15:15 PM  synced recovery
+INFO 9/9/2021, 10:15:16 PM  handle document.loadInitData
+INFO 9/9/2021, 10:15:16 PM  added recovery 1 undefined undefined (0)
+INFO 9/9/2021, 10:15:16 PM  synced recovery
+INFO 9/9/2021, 10:15:40 PM  [blur] 1
+INFO 9/9/2021, 10:15:40 PM  [win] blur
+INFO 9/9/2021, 10:15:50 PM  [focus] 1
+INFO 9/9/2021, 10:16:00 PM  added recovery 1 undefined "|      |      |...     |      |
+
+" (967)
+INFO 9/9/2021, 10:16:00 PM  synced recovery
+INFO 9/9/2021, 10:16:06 PM  added recovery 1 undefined "| T    |      |...     |      |
+
+" (967)
+INFO 9/9/2021, 10:16:06 PM  synced recovery
+INFO 9/9/2021, 10:16:07 PM  added recovery 1 undefined "| Term |      |...     |      |
+
+" (967)
+INFO 9/9/2021, 10:16:07 PM  synced recovery
+INFO 9/9/2021, 10:16:07 PM  added recovery 1 undefined "| Termi |      ...     |      |
+
+" (1009)
+INFO 9/9/2021, 10:16:07 PM  synced recovery
+INFO 9/9/2021, 10:16:17 PM  added recovery 1 undefined "| Terminal numb...     |      |
+
+" (1429)
+INFO 9/9/2021, 10:16:17 PM  synced recovery
+INFO 9/9/2021, 10:16:20 PM  added recovery 1 undefined "| Terminal numb...     |      |
+
+" (1471)
+INFO 9/9/2021, 10:16:20 PM  synced recovery
+INFO 9/9/2021, 10:16:21 PM  added recovery 1 undefined "| Terminal numb...     |      |
+
+" (1681)
+INFO 9/9/2021, 10:16:21 PM  synced recovery
+INFO 9/9/2021, 10:16:23 PM  added recovery 1 undefined "| Terminal numb...     |      |
+
+" (1639)
+INFO 9/9/2021, 10:16:23 PM  synced recovery
+INFO 9/9/2021, 10:16:27 PM  added recovery 1 undefined "| Terminal numb...     |      |
+
+" (1765)
+INFO 9/9/2021, 10:16:27 PM  synced recovery
+INFO 9/9/2021, 10:16:30 PM  added recovery 1 undefined "| Terminal numb...|           |
+
+" (1975)
+INFO 9/9/2021, 10:16:30 PM  synced recovery
+INFO 9/9/2021, 10:16:35 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:16:35 PM  synced recovery
+INFO 9/9/2021, 10:16:36 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:16:36 PM  synced recovery
+INFO 9/9/2021, 10:16:41 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:16:41 PM  synced recovery
+INFO 9/9/2021, 10:16:42 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:16:42 PM  synced recovery
+INFO 9/9/2021, 10:16:43 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:16:43 PM  synced recovery
+INFO 9/9/2021, 10:16:44 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:16:44 PM  synced recovery
+INFO 9/9/2021, 10:16:45 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:16:45 PM  synced recovery
+INFO 9/9/2021, 10:16:46 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:16:46 PM  synced recovery
+INFO 9/9/2021, 10:16:47 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:16:47 PM  synced recovery
+INFO 9/9/2021, 10:16:48 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:16:48 PM  synced recovery
+INFO 9/9/2021, 10:16:50 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:16:50 PM  synced recovery
+INFO 9/9/2021, 10:16:53 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:16:53 PM  synced recovery
+INFO 9/9/2021, 10:16:54 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:16:54 PM  synced recovery
+INFO 9/9/2021, 10:16:56 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:16:56 PM  synced recovery
+INFO 9/9/2021, 10:16:58 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:16:58 PM  synced recovery
+INFO 9/9/2021, 10:16:59 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:16:59 PM  synced recovery
+INFO 9/9/2021, 10:17:01 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:17:01 PM  synced recovery
+INFO 9/9/2021, 10:17:03 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:17:03 PM  synced recovery
+INFO 9/9/2021, 10:17:05 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:17:05 PM  synced recovery
+INFO 9/9/2021, 10:17:06 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:17:06 PM  synced recovery
+INFO 9/9/2021, 10:17:08 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:17:08 PM  synced recovery
+INFO 9/9/2021, 10:17:10 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:17:10 PM  synced recovery
+INFO 9/9/2021, 10:17:11 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:17:11 PM  synced recovery
+INFO 9/9/2021, 10:17:11 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:17:11 PM  synced recovery
+INFO 9/9/2021, 10:17:12 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:17:12 PM  synced recovery
+INFO 9/9/2021, 10:17:13 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:17:13 PM  synced recovery
+INFO 9/9/2021, 10:17:14 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:17:14 PM  synced recovery
+INFO 9/9/2021, 10:17:14 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:17:14 PM  synced recovery
+INFO 9/9/2021, 10:17:15 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:17:15 PM  synced recovery
+INFO 9/9/2021, 10:17:16 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:17:16 PM  synced recovery
+INFO 9/9/2021, 10:17:16 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:17:16 PM  synced recovery
+INFO 9/9/2021, 10:17:18 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:17:18 PM  synced recovery
+INFO 9/9/2021, 10:17:19 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:17:19 PM  synced recovery
+INFO 9/9/2021, 10:17:20 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:17:20 PM  synced recovery
+INFO 9/9/2021, 10:17:21 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:17:21 PM  synced recovery
+INFO 9/9/2021, 10:17:21 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:17:21 PM  synced recovery
+INFO 9/9/2021, 10:17:22 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:17:22 PM  synced recovery
+INFO 9/9/2021, 10:17:23 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:17:23 PM  synced recovery
+INFO 9/9/2021, 10:17:24 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:17:24 PM  synced recovery
+INFO 9/9/2021, 10:17:25 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:17:25 PM  synced recovery
+INFO 9/9/2021, 10:17:26 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:17:26 PM  synced recovery
+INFO 9/9/2021, 10:17:29 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:17:29 PM  synced recovery
+INFO 9/9/2021, 10:17:30 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:17:30 PM  synced recovery
+INFO 9/9/2021, 10:17:34 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:17:34 PM  synced recovery
+INFO 9/9/2021, 10:17:37 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:17:37 PM  synced recovery
+INFO 9/9/2021, 10:17:52 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:17:52 PM  synced recovery
+INFO 9/9/2021, 10:17:56 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:17:56 PM  synced recovery
+INFO 9/9/2021, 10:17:58 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:17:58 PM  synced recovery
+INFO 9/9/2021, 10:18:01 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:18:01 PM  synced recovery
+INFO 9/9/2021, 10:18:03 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:18:03 PM  synced recovery
+INFO 9/9/2021, 10:18:04 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:18:04 PM  synced recovery
+INFO 9/9/2021, 10:18:05 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:18:05 PM  synced recovery
+INFO 9/9/2021, 10:18:05 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:18:05 PM  synced recovery
+INFO 9/9/2021, 10:18:07 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:18:07 PM  synced recovery
+INFO 9/9/2021, 10:18:08 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:18:08 PM  synced recovery
+INFO 9/9/2021, 10:18:11 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:18:11 PM  synced recovery
+INFO 9/9/2021, 10:18:13 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:18:13 PM  synced recovery
+INFO 9/9/2021, 10:18:14 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:18:14 PM  synced recovery
+INFO 9/9/2021, 10:18:15 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:18:15 PM  synced recovery
+INFO 9/9/2021, 10:18:18 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:18:18 PM  synced recovery
+INFO 9/9/2021, 10:18:19 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:18:19 PM  synced recovery
+INFO 9/9/2021, 10:18:20 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:18:20 PM  synced recovery
+INFO 9/9/2021, 10:18:21 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:18:21 PM  synced recovery
+INFO 9/9/2021, 10:18:23 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:18:23 PM  synced recovery
+INFO 9/9/2021, 10:18:24 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:18:24 PM  synced recovery
+INFO 9/9/2021, 10:18:28 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:18:28 PM  synced recovery
+INFO 9/9/2021, 10:18:30 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:18:30 PM  synced recovery
+INFO 9/9/2021, 10:18:30 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:18:30 PM  synced recovery
+INFO 9/9/2021, 10:18:31 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:18:31 PM  synced recovery
+INFO 9/9/2021, 10:18:34 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:18:34 PM  synced recovery
+INFO 9/9/2021, 10:18:35 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:18:35 PM  synced recovery
+INFO 9/9/2021, 10:18:37 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:18:37 PM  synced recovery
+INFO 9/9/2021, 10:18:39 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:18:39 PM  synced recovery
+INFO 9/9/2021, 10:18:42 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:18:42 PM  synced recovery
+INFO 9/9/2021, 10:18:43 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:18:43 PM  synced recovery
+INFO 9/9/2021, 10:18:55 PM  [blur] 1
+INFO 9/9/2021, 10:18:55 PM  [win] blur
+INFO 9/9/2021, 10:19:03 PM  [focus] 1
+INFO 9/9/2021, 10:19:08 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:19:08 PM  synced recovery
+INFO 9/9/2021, 10:19:11 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:19:11 PM  synced recovery
+INFO 9/9/2021, 10:19:14 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:19:14 PM  synced recovery
+INFO 9/9/2021, 10:19:20 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:19:20 PM  synced recovery
+INFO 9/9/2021, 10:19:24 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:19:24 PM  synced recovery
+INFO 9/9/2021, 10:19:30 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:19:30 PM  synced recovery
+INFO 9/9/2021, 10:19:40 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:19:40 PM  synced recovery
+INFO 9/9/2021, 10:19:41 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:19:41 PM  synced recovery
+INFO 9/9/2021, 10:19:42 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:19:42 PM  synced recovery
+INFO 9/9/2021, 10:19:45 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:19:45 PM  synced recovery
+INFO 9/9/2021, 10:19:54 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:19:54 PM  synced recovery
+INFO 9/9/2021, 10:19:59 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:19:59 PM  synced recovery
+INFO 9/9/2021, 10:20:00 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:20:00 PM  synced recovery
+INFO 9/9/2021, 10:20:07 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:20:07 PM  synced recovery
+INFO 9/9/2021, 10:20:17 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:20:17 PM  synced recovery
+INFO 9/9/2021, 10:20:20 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:20:20 PM  synced recovery
+INFO 9/9/2021, 10:20:30 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:20:30 PM  synced recovery
+INFO 9/9/2021, 10:20:32 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:20:32 PM  synced recovery
+INFO 9/9/2021, 10:20:43 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:20:43 PM  synced recovery
+INFO 9/9/2021, 10:20:49 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:20:49 PM  synced recovery
+INFO 9/9/2021, 10:20:57 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:20:57 PM  synced recovery
+INFO 9/9/2021, 10:21:01 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:21:01 PM  synced recovery
+INFO 9/9/2021, 10:21:07 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:21:07 PM  synced recovery
+INFO 9/9/2021, 10:21:10 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:21:10 PM  synced recovery
+INFO 9/9/2021, 10:21:27 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:21:27 PM  synced recovery
+INFO 9/9/2021, 10:21:35 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:21:35 PM  synced recovery
+INFO 9/9/2021, 10:21:41 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:21:41 PM  synced recovery
+INFO 9/9/2021, 10:21:44 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:21:44 PM  synced recovery
+INFO 9/9/2021, 10:21:44 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:21:44 PM  synced recovery
+INFO 9/9/2021, 10:21:49 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:21:49 PM  synced recovery
+INFO 9/9/2021, 10:21:55 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:21:55 PM  synced recovery
+INFO 9/9/2021, 10:22:07 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:22:07 PM  synced recovery
+INFO 9/9/2021, 10:22:09 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:22:09 PM  synced recovery
+INFO 9/9/2021, 10:22:14 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:22:14 PM  synced recovery
+INFO 9/9/2021, 10:22:15 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:22:15 PM  synced recovery
+INFO 9/9/2021, 10:22:15 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:22:15 PM  synced recovery
+INFO 9/9/2021, 10:22:18 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:22:18 PM  synced recovery
+INFO 9/9/2021, 10:22:21 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:22:21 PM  synced recovery
+INFO 9/9/2021, 10:22:33 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:22:33 PM  synced recovery
+INFO 9/9/2021, 10:22:35 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:22:35 PM  synced recovery
+INFO 9/9/2021, 10:22:42 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:22:42 PM  synced recovery
+INFO 9/9/2021, 10:22:51 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:22:51 PM  synced recovery
+INFO 9/9/2021, 10:23:07 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:23:07 PM  synced recovery
+INFO 9/9/2021, 10:23:12 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:23:12 PM  synced recovery
+INFO 9/9/2021, 10:23:14 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:23:14 PM  synced recovery
+INFO 9/9/2021, 10:23:17 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:23:17 PM  synced recovery
+INFO 9/9/2021, 10:23:19 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:23:19 PM  synced recovery
+INFO 9/9/2021, 10:23:23 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:23:23 PM  synced recovery
+INFO 9/9/2021, 10:23:26 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:23:26 PM  synced recovery
+INFO 9/9/2021, 10:23:35 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:23:35 PM  synced recovery
+INFO 9/9/2021, 10:23:40 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:23:40 PM  synced recovery
+INFO 9/9/2021, 10:23:43 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:23:43 PM  synced recovery
+INFO 9/9/2021, 10:23:49 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:23:49 PM  synced recovery
+INFO 9/9/2021, 10:23:50 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2101)
+INFO 9/9/2021, 10:23:50 PM  synced recovery
+INFO 9/9/2021, 10:23:58 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2143)
+INFO 9/9/2021, 10:23:58 PM  synced recovery
+INFO 9/9/2021, 10:23:59 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2143)
+INFO 9/9/2021, 10:23:59 PM  synced recovery
+INFO 9/9/2021, 10:23:59 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2143)
+INFO 9/9/2021, 10:23:59 PM  synced recovery
+INFO 9/9/2021, 10:24:03 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2143)
+INFO 9/9/2021, 10:24:03 PM  synced recovery
+INFO 9/9/2021, 10:24:03 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2143)
+INFO 9/9/2021, 10:24:03 PM  synced recovery
+INFO 9/9/2021, 10:24:06 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2143)
+INFO 9/9/2021, 10:24:06 PM  synced recovery
+INFO 9/9/2021, 10:24:13 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2143)
+INFO 9/9/2021, 10:24:13 PM  synced recovery
+INFO 9/9/2021, 10:24:16 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2143)
+INFO 9/9/2021, 10:24:16 PM  synced recovery
+INFO 9/9/2021, 10:24:23 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2143)
+INFO 9/9/2021, 10:24:23 PM  synced recovery
+INFO 9/9/2021, 10:24:25 PM  [blur] 1
+INFO 9/9/2021, 10:24:25 PM  [win] blur
+INFO 9/9/2021, 10:24:29 PM  [focus] 1
+INFO 9/9/2021, 10:24:39 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2143)
+INFO 9/9/2021, 10:24:39 PM  synced recovery
+INFO 9/9/2021, 10:24:49 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2143)
+INFO 9/9/2021, 10:24:49 PM  synced recovery
+INFO 9/9/2021, 10:24:53 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2143)
+INFO 9/9/2021, 10:24:53 PM  synced recovery
+INFO 9/9/2021, 10:24:54 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2143)
+INFO 9/9/2021, 10:24:54 PM  synced recovery
+INFO 9/9/2021, 10:25:00 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2143)
+INFO 9/9/2021, 10:25:00 PM  synced recovery
+INFO 9/9/2021, 10:25:07 PM  [blur] 1
+INFO 9/9/2021, 10:25:07 PM  [win] blur
+INFO 9/9/2021, 10:25:09 PM  [focus] 1
+INFO 9/9/2021, 10:25:09 PM  [blur] 1
+INFO 9/9/2021, 10:25:09 PM  [win] blur
+INFO 9/9/2021, 10:25:09 PM  [focus] 1
+INFO 9/9/2021, 10:25:10 PM  [blur] 1
+INFO 9/9/2021, 10:25:10 PM  [win] blur
+INFO 9/9/2021, 10:25:11 PM  [focus] 1
+INFO 9/9/2021, 10:25:12 PM  [blur] 1
+INFO 9/9/2021, 10:25:12 PM  [win] blur
+INFO 9/9/2021, 10:25:15 PM  [focus] 1
+INFO 9/9/2021, 10:25:17 PM  [blur] 1
+INFO 9/9/2021, 10:25:17 PM  [win] blur
+INFO 9/9/2021, 10:25:27 PM  [focus] 1
+INFO 9/9/2021, 10:25:29 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2143)
+INFO 9/9/2021, 10:25:29 PM  synced recovery
+INFO 9/9/2021, 10:25:33 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2143)
+INFO 9/9/2021, 10:25:33 PM  synced recovery
+INFO 9/9/2021, 10:25:36 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2143)
+INFO 9/9/2021, 10:25:36 PM  synced recovery
+INFO 9/9/2021, 10:25:39 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2143)
+INFO 9/9/2021, 10:25:39 PM  synced recovery
+INFO 9/9/2021, 10:25:43 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2143)
+INFO 9/9/2021, 10:25:43 PM  synced recovery
+INFO 9/9/2021, 10:25:48 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2143)
+INFO 9/9/2021, 10:25:48 PM  synced recovery
+INFO 9/9/2021, 10:25:54 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2143)
+INFO 9/9/2021, 10:25:54 PM  synced recovery
+INFO 9/9/2021, 10:26:01 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2143)
+INFO 9/9/2021, 10:26:01 PM  synced recovery
+INFO 9/9/2021, 10:26:08 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2143)
+INFO 9/9/2021, 10:26:08 PM  synced recovery
+INFO 9/9/2021, 10:26:10 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2143)
+INFO 9/9/2021, 10:26:10 PM  synced recovery
+INFO 9/9/2021, 10:26:12 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2143)
+INFO 9/9/2021, 10:26:12 PM  synced recovery
+INFO 9/9/2021, 10:26:15 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2395)
+INFO 9/9/2021, 10:26:15 PM  synced recovery
+INFO 9/9/2021, 10:26:21 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2395)
+INFO 9/9/2021, 10:26:21 PM  synced recovery
+INFO 9/9/2021, 10:26:29 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2395)
+INFO 9/9/2021, 10:26:29 PM  synced recovery
+INFO 9/9/2021, 10:26:34 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2395)
+INFO 9/9/2021, 10:26:34 PM  synced recovery
+INFO 9/9/2021, 10:26:36 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2395)
+INFO 9/9/2021, 10:26:36 PM  synced recovery
+INFO 9/9/2021, 10:26:37 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2395)
+INFO 9/9/2021, 10:26:37 PM  synced recovery
+INFO 9/9/2021, 10:26:37 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2395)
+INFO 9/9/2021, 10:26:37 PM  synced recovery
+INFO 9/9/2021, 10:26:37 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2395)
+INFO 9/9/2021, 10:26:37 PM  synced recovery
+INFO 9/9/2021, 10:26:42 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2395)
+INFO 9/9/2021, 10:26:42 PM  synced recovery
+INFO 9/9/2021, 10:26:47 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2395)
+INFO 9/9/2021, 10:26:47 PM  synced recovery
+INFO 9/9/2021, 10:26:50 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2395)
+INFO 9/9/2021, 10:26:50 PM  synced recovery
+INFO 9/9/2021, 10:26:52 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2395)
+INFO 9/9/2021, 10:26:52 PM  synced recovery
+INFO 9/9/2021, 10:26:52 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2395)
+INFO 9/9/2021, 10:26:52 PM  synced recovery
+INFO 9/9/2021, 10:26:55 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2395)
+INFO 9/9/2021, 10:26:55 PM  synced recovery
+INFO 9/9/2021, 10:27:15 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2395)
+INFO 9/9/2021, 10:27:15 PM  synced recovery
+INFO 9/9/2021, 10:27:19 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2395)
+INFO 9/9/2021, 10:27:19 PM  synced recovery
+INFO 9/9/2021, 10:27:25 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2395)
+INFO 9/9/2021, 10:27:25 PM  synced recovery
+INFO 9/9/2021, 10:27:29 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2395)
+INFO 9/9/2021, 10:27:29 PM  synced recovery
+INFO 9/9/2021, 10:27:35 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2395)
+INFO 9/9/2021, 10:27:35 PM  synced recovery
+INFO 9/9/2021, 10:27:39 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2395)
+INFO 9/9/2021, 10:27:39 PM  synced recovery
+INFO 9/9/2021, 10:27:42 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2395)
+INFO 9/9/2021, 10:27:42 PM  synced recovery
+INFO 9/9/2021, 10:27:47 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2395)
+INFO 9/9/2021, 10:27:47 PM  synced recovery
+INFO 9/9/2021, 10:27:47 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2395)
+INFO 9/9/2021, 10:27:47 PM  synced recovery
+INFO 9/9/2021, 10:27:48 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2395)
+INFO 9/9/2021, 10:27:48 PM  synced recovery
+INFO 9/9/2021, 10:27:52 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2395)
+INFO 9/9/2021, 10:27:52 PM  synced recovery
+INFO 9/9/2021, 10:28:00 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2395)
+INFO 9/9/2021, 10:28:00 PM  synced recovery
+INFO 9/9/2021, 10:28:06 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2395)
+INFO 9/9/2021, 10:28:06 PM  synced recovery
+INFO 9/9/2021, 10:28:13 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2395)
+INFO 9/9/2021, 10:28:13 PM  synced recovery
+INFO 9/9/2021, 10:28:24 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2395)
+INFO 9/9/2021, 10:28:24 PM  synced recovery
+INFO 9/9/2021, 10:28:26 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2395)
+INFO 9/9/2021, 10:28:26 PM  synced recovery
+INFO 9/9/2021, 10:28:31 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2395)
+INFO 9/9/2021, 10:28:31 PM  synced recovery
+INFO 9/9/2021, 10:28:34 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2395)
+INFO 9/9/2021, 10:28:34 PM  synced recovery
+INFO 9/9/2021, 10:28:37 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2395)
+INFO 9/9/2021, 10:28:37 PM  synced recovery
+INFO 9/9/2021, 10:28:38 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2395)
+INFO 9/9/2021, 10:28:38 PM  synced recovery
+INFO 9/9/2021, 10:28:39 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2395)
+INFO 9/9/2021, 10:28:39 PM  synced recovery
+INFO 9/9/2021, 10:28:45 PM  [blur] 1
+INFO 9/9/2021, 10:28:45 PM  [win] blur
+INFO 9/9/2021, 10:28:48 PM  [focus] 1
+INFO 9/9/2021, 10:28:52 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2395)
+INFO 9/9/2021, 10:28:52 PM  synced recovery
+INFO 9/9/2021, 10:28:55 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2395)
+INFO 9/9/2021, 10:28:55 PM  synced recovery
+INFO 9/9/2021, 10:28:57 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2395)
+INFO 9/9/2021, 10:28:57 PM  synced recovery
+INFO 9/9/2021, 10:28:59 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2395)
+INFO 9/9/2021, 10:28:59 PM  synced recovery
+INFO 9/9/2021, 10:29:01 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2395)
+INFO 9/9/2021, 10:29:01 PM  synced recovery
+INFO 9/9/2021, 10:29:02 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2395)
+INFO 9/9/2021, 10:29:02 PM  synced recovery
+INFO 9/9/2021, 10:29:04 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2395)
+INFO 9/9/2021, 10:29:04 PM  synced recovery
+INFO 9/9/2021, 10:29:06 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2395)
+INFO 9/9/2021, 10:29:06 PM  synced recovery
+INFO 9/9/2021, 10:29:11 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2395)
+INFO 9/9/2021, 10:29:11 PM  synced recovery
+INFO 9/9/2021, 10:29:12 PM  added recovery 1 undefined "| Terminal numb...            |
+
+" (2395)
+INFO 9/9/2021, 10:29:12 PM  synced recovery
+INFO 9/9/2021, 10:29:13 PM  [blur] 1
+INFO 9/9/2021, 10:29:13 PM  [win] blur
+INFO 9/9/2021, 10:29:43 PM  [focus] 1
+INFO 9/9/2021, 10:29:48 PM  [blur] 1
+INFO 9/9/2021, 10:29:48 PM  [win] blur
+INFO 9/9/2021, 10:30:58 PM  [focus] 1
+INFO 9/9/2021, 10:30:59 PM  [blur] 1
+INFO 9/9/2021, 10:30:59 PM  [win] blur
+INFO 9/9/2021, 10:31:02 PM  [focus] 1
+INFO 9/9/2021, 10:31:04 PM  [blur] 1
+INFO 9/9/2021, 10:31:04 PM  [win] blur
+INFO 9/9/2021, 10:31:04 PM  [focus] 1
+INFO 9/9/2021, 10:31:06 PM  [blur] 1
+INFO 9/9/2021, 10:31:06 PM  [win] blur
+INFO 9/9/2021, 10:32:11 PM  [focus] 1
+INFO 9/9/2021, 10:32:15 PM  [blur] 1
+INFO 9/9/2021, 10:32:15 PM  [win] blur
+INFO 9/9/2021, 10:32:49 PM  [focus] 1
+INFO 9/9/2021, 10:32:49 PM  addRecentDocument
+INFO 9/9/2021, 10:32:49 PM  added recovery 1 /home/josuer08/Documents/screen_project/terminals.md null (0)
+INFO 9/9/2021, 10:32:49 PM  synced recovery
+INFO 9/9/2021, 10:32:50 PM  [blur] 1
+INFO 9/9/2021, 10:32:50 PM  [win] blur
+INFO 9/9/2021, 10:32:50 PM  [focus] 1
+INFO 9/9/2021, 10:32:54 PM  added recovery 1 /home/josuer08/Documents/screen_project/terminals.md "| Terminal numb...            |
+
+" (2395)
+INFO 9/9/2021, 10:32:54 PM  synced recovery
+INFO 9/9/2021, 10:32:56 PM  [blur] 1
+INFO 9/9/2021, 10:32:56 PM  [win] blur
+INFO 9/9/2021, 10:33:25 PM  [focus] 1
+INFO 9/9/2021, 10:33:26 PM  [blur] 1
+INFO 9/9/2021, 10:33:26 PM  [win] blur
+INFO 9/9/2021, 10:33:26 PM  [focus] 1
+INFO 9/9/2021, 10:33:28 PM  [blur] 1
+INFO 9/9/2021, 10:33:28 PM  [win] blur
+INFO 9/9/2021, 10:33:29 PM  [focus] 1
+INFO 9/9/2021, 10:33:32 PM  [blur] 1
+INFO 9/9/2021, 10:33:32 PM  [win] blur
+INFO 9/9/2021, 10:34:46 PM  [focus] 1
+INFO 9/9/2021, 10:34:46 PM  added recovery 1 /home/josuer08/Documents/screen_project/terminals.md null (0)
+INFO 9/9/2021, 10:34:46 PM  synced recovery
+INFO 9/9/2021, 10:34:46 PM  [blur] 1
+INFO 9/9/2021, 10:34:46 PM  [win] blur
+INFO 9/9/2021, 10:34:48 PM  [focus] 1
+INFO 9/9/2021, 10:34:49 PM  [blur] 1
+INFO 9/9/2021, 10:34:49 PM  [win] blur
+INFO 9/9/2021, 10:34:49 PM  [focus] 1
+INFO 9/9/2021, 10:34:50 PM  synced recovery
+INFO 9/9/2021, 10:34:50 PM  ----------------before-quit-----------------
+INFO 9/9/2021, 10:34:50 PM  ------------------will-quit------------------
+INFO 9/9/2021, 10:34:50 PM  -----------------quit------------------
+INFO 9/9/2021, 10:34:50 PM  closeLogging
