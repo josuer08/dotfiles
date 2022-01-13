@@ -1,0 +1,6 @@
+2021/11/26-20:15:14.176 10ca6b Creating DB /home/josuer08/.config/chromium/Default/IndexedDB/https_wallet.keplr.app_0.indexeddb.leveldb since it was missing.
+2021/11/26-20:15:14.258 10ca6b Reusing MANIFEST /home/josuer08/.config/chromium/Default/IndexedDB/https_wallet.keplr.app_0.indexeddb.leveldb/MANIFEST-000001
+2021/11/26-20:15:14.625 10ca6b Level-0 table #5: started
+2021/11/26-20:15:14.650 10ca6b Level-0 table #5: 1215 bytes OK
+2021/11/26-20:15:14.767 10ca6b Delete type=0 #3
+2021/11/26-20:15:14.767 10ca6b Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)

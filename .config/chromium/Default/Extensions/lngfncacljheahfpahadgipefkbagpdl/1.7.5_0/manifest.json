@@ -1,0 +1,25 @@
+{
+   "background": {
+      "scripts": [ "js/background.js" ]
+   },
+   "browser_action": {
+      "default_icon": "images/icon.png",
+      "default_popup": "client/popup.html",
+      "default_title": "UltraWide Video"
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "js/UltraWide.js" ],
+      "matches": [ "\u003Call_urls>" ]
+   } ],
+   "description": "Allows wider than average screens (eg.21:9) to play online video content and fit the screen properly in fullscreen mode.",
+   "icons": {
+      "128": "images/icon.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAojOldCgrJyshcMl8vshkLGBijvNo42oxyUz1OnY5ZKkhwJINftN23GMVOdwYWMUBK5fXAKmZeyelA8WUIm4IWWBFYJ/x1cPOauxsKkPdL2Q8JpDG1EXhP4eayUtGdtmUv4htWdSHQv9fHQ5SjVuQLwVNhUBusVGfvJr7D7ulYgt2IUosDzc0C13tc5YEdLny2Z2G8cWzG/91RqamHAucF8roFzZJ63RJY0pvWnNGAOkDlTCwKvYbnntoG3HPP5+HvA3eNrAxWtYEr3R7fnRw1GA/jSfPlevCM8MI8t7f2FhnlL+Rkg2gVaUMMA7EP1jyQ1orylyyV/XdNTwRXpvbEQIDAQAB",
+   "manifest_version": 2,
+   "name": "UltraWide Video",
+   "permissions": [ "storage", "notifications" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.7.5"
+}

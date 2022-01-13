@@ -21,3 +21,4 @@ if $_isxrunning; then
   export LESS_TERMCAP_us=$'\E[04;38;5;146m' # begin underline
 fi
 
+export TIME_STYLE="+%Y-%m-%d %H:%M:%S %z"

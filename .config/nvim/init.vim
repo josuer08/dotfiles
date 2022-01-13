@@ -4,6 +4,7 @@ call plug#begin('~/.config/nvim/plugins/plugged')
 Plug 'nvim-lua/popup.nvim'
 Plug 'nvim-lua/plenary.nvim'
 Plug 'nvim-telescope/telescope.nvim'
+Plug 'pappasam/coc-jedi', { 'do': 'yarn install --frozen-lockfile && yarn build', 'branch': 'main' }
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
 Plug 'ryanoasis/vim-devicons'
 Plug 'airblade/vim-gitgutter'
@@ -14,6 +15,7 @@ Plug 'christoomey/vim-tmux-navigator'
 Plug 'morhetz/gruvbox'
 Plug 'dracula/vim',{'as':'dracula'}
 Plug 'HerringtonDarkholme/yats.vim' " TS Syntax
+Plug 'tomlion/vim-solidity'
 " Initialize plugin system
 call plug#end()
 

@@ -1,0 +1,208 @@
+03:30:30 PM.324: CPU Name: AMD Ryzen 5 3600 6-Core Processor
+03:30:30 PM.324: CPU Speed: 2200.000MHz
+03:30:30 PM.324: Physical Cores: 6, Logical Cores: 12
+03:30:30 PM.324: Physical Memory: 32094MB Total, 1528MB Free
+03:30:30 PM.324: Kernel Version: Linux 5.15.5-arch1-1
+03:30:30 PM.324: Distribution: "Arch Linux" Unknown
+03:30:30 PM.324: Session Type: x11
+03:30:30 PM.324: Window System: X11.0, Vendor: The X.Org Foundation, Version: 1.21.1
+03:30:30 PM.324: Portable mode: false
+03:30:30 PM.350: OBS 27.1.3-1 (linux)
+03:30:30 PM.350: ---------------------------------
+03:30:30 PM.350: ---------------------------------
+03:30:30 PM.350: audio settings reset:
+03:30:30 PM.350: 	samples per sec: 48000
+03:30:30 PM.350: 	speakers:        2
+03:30:30 PM.351: ---------------------------------
+03:30:30 PM.352: Initializing OpenGL...
+03:30:30 PM.400: Loading up OpenGL on adapter NVIDIA Corporation NVIDIA GeForce GTX 1660 SUPER/PCIe/SSE2
+03:30:30 PM.400: OpenGL loaded successfully, version 3.3.0 NVIDIA 495.44, shading language 3.30 NVIDIA via Cg compiler
+03:30:30 PM.408: ---------------------------------
+03:30:30 PM.408: video settings reset:
+03:30:30 PM.408: 	base resolution:   1920x1080
+03:30:30 PM.408: 	output resolution: 1920x1080
+03:30:30 PM.408: 	downscale filter:  Lanczos
+03:30:30 PM.408: 	fps:               24000/1001
+03:30:30 PM.408: 	format:            NV12
+03:30:30 PM.408: 	YUV mode:          709/Partial
+03:30:30 PM.408: NV12 texture support not available
+03:30:30 PM.408: Audio monitoring device:
+03:30:30 PM.408: 	name: Default
+03:30:30 PM.408: 	id: default
+03:30:30 PM.408: ---------------------------------
+03:30:30 PM.410: Failed to load 'en-US' text for module: 'decklink-captions.so'
+03:30:30 PM.411: Failed to load 'en-US' text for module: 'decklink-ouput-ui.so'
+03:30:30 PM.469: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+03:30:30 PM.469: No blackmagic support
+03:30:30 PM.477: NVENC supported
+03:30:30 PM.477: FFMPEG VAAPI supported
+03:30:30 PM.482: os_dlopen(/usr//lib/obs-plugins/sndio.so->/usr//lib/obs-plugins/sndio.so): libsndio.so.7: cannot open shared object file: No such file or directory
+03:30:30 PM.482: 
+03:30:30 PM.482: Module '/usr//lib/obs-plugins/sndio.so' not loaded
+03:30:30 PM.482: ---------------------------------
+03:30:30 PM.482:   Loaded Modules:
+03:30:30 PM.482:     text-freetype2.so
+03:30:30 PM.482:     rtmp-services.so
+03:30:30 PM.482:     obs-x264.so
+03:30:30 PM.482:     obs-transitions.so
+03:30:30 PM.482:     obs-outputs.so
+03:30:30 PM.482:     obs-libfdk.so
+03:30:30 PM.482:     obs-filters.so
+03:30:30 PM.482:     obs-ffmpeg.so
+03:30:30 PM.482:     linux-v4l2.so
+03:30:30 PM.482:     linux-pulseaudio.so
+03:30:30 PM.482:     linux-jack.so
+03:30:30 PM.482:     linux-decklink.so
+03:30:30 PM.482:     linux-capture.so
+03:30:30 PM.482:     linux-alsa.so
+03:30:30 PM.482:     libobs-linuxbrowser.so
+03:30:30 PM.482:     image-source.so
+03:30:30 PM.482:     frontend-tools.so
+03:30:30 PM.482:     decklink-ouput-ui.so
+03:30:30 PM.482:     decklink-captions.so
+03:30:30 PM.482: ---------------------------------
+03:30:30 PM.483: ==== Startup complete ===============================================
+03:30:30 PM.484: Switched to Preview/Program mode
+03:30:30 PM.484: ------------------------------------------------
+03:30:30 PM.486: All scene data cleared
+03:30:30 PM.486: ------------------------------------------------
+03:30:30 PM.490: pulse-input: Server name: 'PulseAudio (on PipeWire 0.3.40) 15.0.0'
+03:30:30 PM.490: pulse-input: An error occurred while getting the source info!
+03:30:30 PM.490: [Loaded global audio device]: 'Desktop Audio'
+03:30:30 PM.491: pulse-input: Server name: 'PulseAudio (on PipeWire 0.3.40) 15.0.0'
+03:30:30 PM.491: pulse-input: Audio format: s16le, 48000 Hz, 2 channels
+03:30:30 PM.491: pulse-input: Started recording from 'alsa_input.usb-Burr-Brown_from_TI_USB_Audio_CODEC-00.analog-stereo'
+03:30:30 PM.491: [Loaded global audio device]: 'Mic/Aux'
+03:30:30 PM.491:     - filter: 'gate' (noise_gate_filter)
+03:30:30 PM.491:     - filter: 'Compressor' (compressor_filter)
+03:30:30 PM.491:     - filter: 'Noise Suppression' (noise_suppress_filter_v2)
+03:30:30 PM.491:     - filter: 'Limiter' (limiter_filter)
+03:30:30 PM.499: v4l2-input: Start capture from /dev/video0
+03:30:30 PM.608: v4l2-input: Input: 0
+03:30:30 PM.613: v4l2-input: Resolution: 1280x720
+03:30:30 PM.613: v4l2-input: Pixelformat: YU12
+03:30:30 PM.613: v4l2-input: Linesize: 1280 Bytes
+03:30:30 PM.616: v4l2-input: Framerate: 30.00 fps
+03:30:30 PM.617: v4l2-input: /dev/video0: select timeout set to 166666us (5x frame periods)
+03:30:30 PM.618: xshm-input: Geometry 1920x1080 @ 760,0
+03:30:30 PM.678: xshm-input: Geometry 1920x1080 @ 760,0
+03:30:30 PM.678: Switched to scene 'onlyscreen'
+03:30:30 PM.701: ------------------------------------------------
+03:30:30 PM.701: Loaded scenes:
+03:30:30 PM.701: - scene 'top':
+03:30:30 PM.702:     - source: 'topscreen' (xshm_input)
+03:30:30 PM.702:     - source: 'camera' (v4l2_input)
+03:30:30 PM.702:     - source: 'outline' (image_source)
+03:30:30 PM.702: - scene 'onlycam':
+03:30:30 PM.702:     - source: 'topscreen' (xshm_input)
+03:30:30 PM.702:     - source: 'camera' (v4l2_input)
+03:30:30 PM.702:     - source: 'outline' (image_source)
+03:30:30 PM.702: - scene 'terms-cam':
+03:30:30 PM.702:     - source: 'camera' (v4l2_input)
+03:30:30 PM.702:     - source: 'term1' (xcomposite_input)
+03:30:30 PM.702:     - source: 'term2' (xcomposite_input)
+03:30:30 PM.702:         - filter: 'greenout' (chroma_key_filter)
+03:30:30 PM.702:         - filter: 'Color Correction' (color_filter)
+03:30:30 PM.702:     - source: 'Linux Browser' (linuxbrowser-source)
+03:30:30 PM.702: - scene 'new':
+03:30:30 PM.702:     - source: 'browser' (linuxbrowser-source)
+03:30:30 PM.702: - scene 'onlyscreen':
+03:30:30 PM.702:     - source: 'top1' (xshm_input)
+03:30:30 PM.702: ------------------------------------------------
+03:30:31 PM.067: adding 42 milliseconds of audio buffering, total audio buffering is now 42 milliseconds (source: Mic/Aux)
+03:30:31 PM.067: 
+03:33:04 PM.871: pulse-input: Server name: 'PulseAudio (on PipeWire 0.3.40) 15.0.0'
+03:33:04 PM.871: pulse-input: Audio format: s16le, 48000 Hz, 2 channels
+03:33:04 PM.871: pulse-input: Started recording from 'alsa_output.usb-Burr-Brown_from_TI_USB_Audio_CODEC-00.analog-stereo.monitor'
+03:33:05 PM.346: pulse-input: Stopped recording from 'default'
+03:33:05 PM.346: pulse-input: Got 22 packets with 22528 frames
+03:33:05 PM.346: pulse-input: Server name: 'PulseAudio (on PipeWire 0.3.40) 15.0.0'
+03:33:05 PM.346: pulse-input: Audio format: s16le, 48000 Hz, 2 channels
+03:33:05 PM.346: pulse-input: Started recording from 'alsa_output.usb-Burr-Brown_from_TI_USB_Audio_CODEC-00.analog-stereo.monitor'
+03:34:11 PM.765: ---------------------------------
+03:34:11 PM.765: [NVENC encoder: 'simple_h264_stream'] settings:
+03:34:11 PM.765: 	rate_control: CBR
+03:34:11 PM.765: 	bitrate:      2500
+03:34:11 PM.765: 	cqp:          0
+03:34:11 PM.765: 	keyint:       47
+03:34:11 PM.765: 	preset:       hq
+03:34:11 PM.765: 	profile:      high
+03:34:11 PM.765: 	width:        1920
+03:34:11 PM.765: 	height:       1080
+03:34:11 PM.765: 	2-pass:       false
+03:34:11 PM.765: 	b-frames:     2
+03:34:11 PM.765: 	psycho-aq:    1
+03:34:11 PM.765: 	GPU:          0
+03:34:11 PM.765: 
+03:34:11 PM.978: libfdk_aac encoder created
+03:34:11 PM.978: libfdk_aac bitrate: 160, channels: 2
+03:34:11 PM.978: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmps://a.rtmps.youtube.com:443/live2...
+03:34:12 PM.345: [rtmp stream: 'simple_stream'] Connection to rtmps://a.rtmps.youtube.com:443/live2 successful
+03:34:12 PM.346: ==== Streaming Start ===============================================
+03:38:54 PM.133: adding 42 milliseconds of audio buffering, total audio buffering is now 85 milliseconds (source: Mic/Aux)
+03:38:54 PM.133: 
+03:41:29 PM.669: Switched to scene 'top'
+03:41:29 PM.670: Switched to regular Preview mode
+03:41:29 PM.670: ------------------------------------------------
+04:12:25 PM.747: adding 21 milliseconds of audio buffering, total audio buffering is now 106 milliseconds (source: Mic/Aux)
+04:12:25 PM.747: 
+04:14:59 PM.244: WriteN, RTMP send error 32 (433 bytes)
+04:14:59 PM.244: WriteN, RTMP send error 32 (59 bytes)
+04:14:59 PM.244: WriteN, RTMP send error 9 (42 bytes)
+04:14:59 PM.244: [rtmp stream: 'simple_stream'] Disconnected from rtmps://a.rtmps.youtube.com:443/live2
+04:14:59 PM.244: Output 'simple_stream': stopping
+04:14:59 PM.244: Output 'simple_stream': Total frames output: 58629
+04:14:59 PM.244: Output 'simple_stream': Total drawn frames: 58676
+04:14:59 PM.244: Output 'simple_stream':  Reconnecting in 10 seconds..
+04:14:59 PM.438: libfdk_aac encoder destroyed
+04:15:09 PM.244: ---------------------------------
+04:15:09 PM.245: [NVENC encoder: 'simple_h264_stream'] settings:
+04:15:09 PM.245: 	rate_control: CBR
+04:15:09 PM.245: 	bitrate:      2500
+04:15:09 PM.245: 	cqp:          0
+04:15:09 PM.245: 	keyint:       47
+04:15:09 PM.245: 	preset:       hq
+04:15:09 PM.245: 	profile:      high
+04:15:09 PM.245: 	width:        1920
+04:15:09 PM.245: 	height:       1080
+04:15:09 PM.245: 	2-pass:       false
+04:15:09 PM.245: 	b-frames:     2
+04:15:09 PM.245: 	psycho-aq:    1
+04:15:09 PM.245: 	GPU:          0
+04:15:09 PM.245: 
+04:15:09 PM.401: libfdk_aac encoder created
+04:15:09 PM.401: libfdk_aac bitrate: 160, channels: 2
+04:15:09 PM.401: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmps://a.rtmps.youtube.com:443/live2...
+04:15:09 PM.776: [rtmp stream: 'simple_stream'] Connection to rtmps://a.rtmps.youtube.com:443/live2 successful
+05:14:42 PM.323: [rtmp stream: 'simple_stream'] User stopped the stream
+05:14:42 PM.323: Output 'simple_stream': stopping
+05:14:42 PM.323: Output 'simple_stream': Total frames output: 85620
+05:14:42 PM.323: Output 'simple_stream': Total drawn frames: 85665
+05:14:42 PM.324: ==== Streaming Stop ================================================
+05:14:42 PM.527: libfdk_aac encoder destroyed
+08:21:40 PM.064: ---------------------------------
+08:21:40 PM.064: [NVENC encoder: 'simple_h264_stream'] settings:
+08:21:40 PM.064: 	rate_control: CBR
+08:21:40 PM.064: 	bitrate:      2500
+08:21:40 PM.064: 	cqp:          0
+08:21:40 PM.064: 	keyint:       47
+08:21:40 PM.064: 	preset:       hq
+08:21:40 PM.064: 	profile:      high
+08:21:40 PM.064: 	width:        1920
+08:21:40 PM.064: 	height:       1080
+08:21:40 PM.064: 	2-pass:       false
+08:21:40 PM.064: 	b-frames:     2
+08:21:40 PM.064: 	psycho-aq:    1
+08:21:40 PM.064: 	GPU:          0
+08:21:40 PM.064: 
+08:21:40 PM.246: libfdk_aac encoder created
+08:21:40 PM.246: libfdk_aac bitrate: 160, channels: 2
+08:21:40 PM.246: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmps://a.rtmps.youtube.com:443/live2...
+08:21:40 PM.591: [rtmp stream: 'simple_stream'] Connection to rtmps://a.rtmps.youtube.com:443/live2 successful
+08:21:40 PM.592: ==== Streaming Start ===============================================
+10:20:33 PM.029: [rtmp stream: 'simple_stream'] User stopped the stream
+10:20:33 PM.029: Output 'simple_stream': stopping
+10:20:33 PM.029: Output 'simple_stream': Total frames output: 170971
+10:20:33 PM.029: Output 'simple_stream': Total drawn frames: 171016
+10:20:33 PM.030: ==== Streaming Stop ================================================
+10:20:33 PM.234: libfdk_aac encoder destroyed

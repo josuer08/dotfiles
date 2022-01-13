@@ -1,9 +1,10 @@
 # GIMP gimp-heal-tool options
 
+(background (color-rgb 0.94117653369903564 0.49411767721176147 0.062745101749897003))
 (brush "2. Hardness 025")
 (dynamics "Dynamics Off")
 (palette "Standard")
-(brush-size 49)
+(brush-size 623)
 (brush-angle -0.30000000000000004)
 (brush-spacing 0.049000000000000002)
 (brush-hardness 0.35999999999999999)

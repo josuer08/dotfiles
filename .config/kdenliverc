@@ -1,0 +1,139 @@
+[KFileDialog Settings]
+Recent Files[$e]=2021-10-19 01-04-09.mkv,file:///media/2022-01-09 02-13-04.mp3,file:///media/2022-01-09 02-13-04.mkv,file:$HOME/Music/ECNS/12-tokenomics/token_economics_eq.mp3,file:$HOME/Music/ECNS/scams-with-caney/podcast 7 final.mp3,file:$HOME/Music/ECNS/02-eat-the-dip/eat-the-dip.mp3,file:$HOME/Downloads/Adobe_Post_20210519_0648280.4472625099127686.png,file:$HOME/Pictures/backgrounds/vtoDBZl.jpeg,file:$HOME/Music/ECNS/13-wallets/wallets-explained.mp3,file:$HOME/Music/ECNS/ECNSR - Intro.wav,file:///media/notVPN.mp4,file:///tmp/WhatsApp Video 2021-11-16 at 3.51.35 PM.mp4,file:///tmp/untitled.mp3,file:$HOME/Videos/tutorialdvpn/untitled-f040848.png,file:$HOME/Downloads/Adobe_20210713_142845.jpg,file:$HOME/Videos/tutorialdvpn/tutorial audio.mp3
+Recent URLs[$e]=file:///tmp/,file:///,file:$HOME/Music/ECNS/,file:$HOME/Music/ECNS/13-wallets/,file:$HOME/Pictures/backgrounds/,file:$HOME/Pictures/,file:$HOME/Music/ECNS/02-eat-the-dip/,file:$HOME/Music/ECNS/scams-with-caney/,file:$HOME/Music/ECNS/12-tokenomics/,file:///media/,file:$HOME/
+detailViewIconSize=16
+
+[MainWindow]
+HDMI-0 DP-0 Height 1920x1080=1399
+HDMI-0 DP-0 Height 3440x1440=1399
+HDMI-0 DP-0 Width 1920x1080=1548
+HDMI-0 DP-0 Width 3440x1440=1548
+HDMI-0 DP-0 XPosition 1920x1080=946
+HDMI-0 DP-0 XPosition 3440x1440=946
+HDMI-0 DP-0 YPosition 1920x1080=1100
+HDMI-0 DP-0 YPosition 3440x1440=1100
+State=AAAA/wAAAAD9AAAAAgAAAAEAAAFaAAACA/wCAAAAAfwAAANUAAACAwAAAMoBAAAd+gAAAAECAAAAAvsAAAAKAG0AaQB4AGUAcgEAAAHwAAACCwAAAKwBAAAC+wAAABgAZQBmAGYAZQBjAHQAXwBzAHQAYQBjAGsBAAAAAP////8AAAB+AQAAAgAAAAIAAAYMAAADB/wBAAAADfsAAAAUAHMAYwByAGUAZQBuAGcAcgBhAGIAAAAAAP////8AAACUAQAAA/sAAAAaAGEAdQBkAGkAbwBzAHAAZQBjAHQAcgB1AG0AAAAAAP////8AAABmAQAAA/wAAAAAAAAB1AAAAIsA////+gAAAAABAAAABfsAAAAWAHAAcgBvAGoAZQBjAHQAXwBiAGkAbgEAAAAA/////wAAAFwBAAAD+wAAAB4AdAByAGEAbgBzAGkAdABpAG8AbgBfAGwAaQBzAHQBAAAAAP////8AAAAEAQAAA/sAAAAWAGUAZgBmAGUAYwB0AF8AbABpAHMAdAEAAAAA/////wAAAAQBAAAD+wAAAB4AYwBsAGkAcABfAHAAcgBvAHAAZQByAHQAaQBlAHMBAAAAAP////8AAABXAQAAA/sAAAAYAHUAbgBkAG8AXwBoAGkAcwB0AG8AcgB5AQAAAAD/////AAAAWwEAAAP8AAAB1QAAAiIAAAFEAP////oAAAAAAgAAAAP7AAAAGABjAGwAaQBwAF8AbQBvAG4AaQB0AG8AcgEAAABEAAABzQAAAMsBAAAC+wAAABIAUwB1AGIAdABpAHQAbABlAHMAAAAAAP////8AAAEZAQAAA/sAAAAOAGwAaQBiAHIAYQByAHkBAAAAAP////8AAACUAQAAAvwAAAP4AAACFAAAAUQA////+gAAAAACAAAAAvsAAAAeAHAAcgBvAGoAZQBjAHQAXwBtAG8AbgBpAHQAbwByAQAAAL8AAAEsAAAAywEAAAL7AAAAGABuAG8AdABlAHMAXwB3AGkAZABnAGUAdAEAAAAA/////wAAAI4BAAAC+wAAABYAdgBlAGMAdABvAHIAcwBjAG8AcABlAAAAAAD/////AAABKgEAAAP7AAAAEAB3AGEAdgBlAGYAbwByAG0AAAAAAP////8AAAClAQAAA/sAAAAUAHIAZwBiAF8AcABhAHIAYQBkAGUAAAAAAP////8AAACeAQAAA/sAAAASAGgAaQBzAHQAbwBnAHIAYQBtAAAAAAD/////AAABTAEAAAP7AAAAEAB0AGUAeAB0AGUAZABpAHQAAAAAAP////8AAAGNAQAAA/sAAAASAHQAaQBtAGUAcgBlAG0AYQBwAAAAAAD/////AAABSgEAAAP7AAAAEABiAGkAbgBfAGMAbABpAHAAAAAAAP////8AAAI2AQAAA/sAAAAeAG8AbgBsAGkAbgBlAHIAZQBzAG8AdQByAGMAZQBzAAAAAAD/////AAABPAEAAAMAAASxAAACAwAAAAQAAAAEAAAACAAAAAj8AAAAAQAAAAIAAAACAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIBAAAAAP////8AAAAAAAAAAAAAABgAZQB4AHQAcgBhAFQAbwBvAGwAQgBhAHIBAAACN/////8AAAAAAAAAAA==
+ToolBarsMovable=Disabled
+
+[OnlineResources]
+provider=Freesound
+zoom=7
+
+[Recent Dirs]
+KdenliveClipFolder[$e]=/media/,$HOME/Music/ECNS/12-tokenomics/,$HOME/Music/ECNS/scams-with-caney/
+KdenliveFramesFolder[$e]=$HOME/Videos/tutorialdvpn/,$HOME/Documents
+KdenliveProjectsFolder[$e]=$HOME/Videos/instagram cuts,$HOME/Videos/instagram cuts/,/media/tutorial DVPN
+
+[Recent Files]
+File1[$e]=/media/tutorial DVPN/Tutorial.kdenlive
+File2[$e]=$HOME/Videos/instagram cuts/testcut.kdenlive
+File3[$e]=$HOME/Videos/instagram cuts/testcut-3000.kdenlive
+Name1[$e]=Tutorial.kdenlive
+Name2[$e]=testcut.kdenlive
+Name3[$e]=testcut-3000.kdenlive
+
+[RenderWidget]
+showoptions=false
+
+[Scope_Histogram]
+autoRefresh=true
+bEnabled=true
+gEnabled=true
+logScale=false
+rEnabled=true
+realtime=false
+rec601=false
+sEnabled=false
+yEnabled=true
+
+[Scope_RGB Parade]
+autoRefresh=true
+axis=false
+gradref=false
+paintmode=0
+realtime=false
+
+[Scope_Vectorscope]
+75PBox=false
+autoRefresh=true
+axis=false
+backgroundmode=0
+colorspace_ypbpr=false
+gain=1
+iqlines=false
+paintmode=0
+realtime=false
+
+[Scope_Waveform]
+autoRefresh=true
+paintmode=0
+realtime=false
+rec601=false
+
+[TitleGradients]
+Gradient=#ff7a8758;#ff000000;41;100;90
+
+[TitleWidget]
+background_alpha=255
+background_color=232,154,0
+dialog_geometry=AdnQywADAAAAAASKAAAFkwAACNMAAAhqAAAEiwAABZQAAAjSAAAIaQAAAAEAAAAADXAAAASLAAAFlAAACNIAAAhp
+font_color=invalid
+font_family=Inconsolata,-1,179,5,87,1,0,0,0,0
+font_italic=true
+font_outline=8
+font_outline_color=0,0,0
+font_pixel_size=179
+font_underlined=false
+font_weight=87
+rect_background_alpha=255
+rect_background_color=255,255,255
+rect_foreground_alpha=255
+rect_foreground_color=0,0,0
+rect_line_width=0
+use_grid=false
+
+[UiSettings]
+ColorScheme=Breeze Dark
+
+[bin]
+treeviewheaders=AAAA/wAAAAAAAAABAAAAAAAAAAABAAAAAAAAAAAAAAAI/gAAAAcAAAAHAAAANAAAAAYAAAAkAAAABQAAAE4AAAAEAAAALwAAAAMAAAA2AAAAAgAAAGAAAAABAAAANQAAARUAAAAIAQEAAQAAAAAAAAAAAAAAAGn/////AAAAgQAAAAAAAAAIAAABFQAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAD6AAAAAA8
+
+[capture]
+decklink_extension=mov
+decklink_parameters=vcodec=dnxhd vb=145000k acodec=pcm_s16le threads=%threads
+grab_extension=mov
+grab_parameters=-crf 25 -vcodec libx264 -preset veryfast -threads 0
+v4l_extension=mpg
+v4l_parameters=qscale=4 ab=192k vcodec=mpeg2video acodec=mp2 threads=%threads
+
+[env]
+defaultaudioapp=/usr/bin/audacity
+defaultimageapp=/usr/bin/gimp
+defaultprojectfolder[$e]=$HOME/Videos
+ffmpegpath[$e]=/usr/bin/ffmpeg
+ffplaypath[$e]=/usr/bin/ffplay
+ffprobepath[$e]=/usr/bin/ffprobe
+mltpath[$e]=/usr/share/mlt-7/profiles
+rendererpath[$e]=/usr/bin/melt-7
+
+[project]
+nvencEnabled=true
+
+[timeline]
+trackheight=74
+
+[titles]
+titlerShowbg=true
+
+[unmanaged]
+default_profile=atsc_1080p_25
+defaultrescaleheight=540
+defaultrescalewidth=960
+force_breeze=true
+monitor_audio=false
+producerslist=avformat,avformat-novalidate,abnormal,color,colour,consumer,hold,loader,melt,melt_file,noise,timewarp,tone,decklink,frei0r.ising0r,frei0r.lissajous0r,frei0r.nois0r,frei0r.onecol0r,frei0r.partik0l,frei0r.plasma,frei0r.test_pat_B,frei0r.test_pat_C,frei0r.test_pat_G,frei0r.test_pat_I,frei0r.test_pat_L,frei0r.test_pat_R,pango,pixbuf,framebuffer,blipflash,count,pgm,qimage,qtext,kdenlivetitle,vorbis,xml,xml-string,xml-nogl
+use_dark_breeze=true
+widgetstyle=Default
+
+[version]
+version=21.12.0

@@ -1,8 +1,12 @@
+markdownlint-enable
+markdownlint-disable
+if
+for
+try/except/else/finally
 func
 fmain
 iferr
 im
-for
 try/except
 else
 for/else

@@ -10,7 +10,7 @@ let g:coc_global_extensions = [
   \ 'coc-css',
   \ 'coc-html',
   \ 'coc-markdownlint',
-  \ 'coc-python',
+  \ 'coc-pyright',
   \ ]
 
 " Use tab for trigger completion with characters ahead and navigate.

@@ -79,7 +79,12 @@ shopt -s checkwinsize
 # vi mode in the shell
 set -o vi
 
+#####adding the agent forwarding stuff
+if [ -z "$SSH_AUTH_SOCK" ] ; then
+    eval `ssh-agent` > /dev/null 2&>1;
+    ssh-add > /dev/null 2&>1;
 
+fi
 
 
 source /usr/share/bash-completion/bash_completion
