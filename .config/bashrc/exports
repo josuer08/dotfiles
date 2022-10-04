@@ -3,10 +3,10 @@ export EDITOR=vim;
 export VISUAL=nvim; #Nano is the main editor
 export GCC_COLORS='error=01;31:warning=01;35:note=01;36:caret=01;32:locus=01:quote=01'
 export PATH="$HOME/.local/bin:$PATH";
-export PATH="$HOME/.gem/ruby/2.7.0/bin:$PATH";
+#export PATH="$HOME/.gem/ruby/2.7.0/bin:$PATH";
 ## HERE I'LL EXPORT SOME STUFF TO CLEAN MY HOME DIR
-export GEM_HOME="$XDG_DATA_HOME"/gem;
-export GEM_SPEC_CACHE="$XDG_CACHE_HOME"/gem;
+#export GEM_HOME="$XDG_DATA_HOME"/gem;
+#export GEM_SPEC_CACHE="$XDG_CACHE_HOME"/gem;
 export KDEHOME="$XDG_CONFIG_HOME"/kde;
 export MPLAYER_HOME="$XDG_CONFIG_HOME"/mplayer;
 #colorman
