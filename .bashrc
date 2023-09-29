@@ -81,8 +81,8 @@ set -o vi
 
 #####adding the agent forwarding stuff
 if [ -z "$SSH_AUTH_SOCK" ] ; then
-    eval `ssh-agent` > /dev/null 2&>1;
-    ssh-add > /dev/null 2&>1;
+    eval `ssh-agent` > /dev/null 2>&1;
+    ssh-add > /dev/null 2>&1;
 
 fi
 
